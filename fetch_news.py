@@ -3,7 +3,8 @@ import json
 from datetime import datetime, timedelta
 import random
 
-API_KEY = 'b6c7fd8ed0714e1aa7c8261731ebdec3'
+API_KEY = os.environ['NEWS_API_KEY']
+
 EVERYTHING_URL = 'https://newsapi.org/v2/everything'
 
 
