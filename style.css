@@ -74,6 +74,8 @@ header {
     background-color: var(--card-bg);
     border-radius: 20px;
     overflow: hidden;
+    max-width: 300px;
+    width: 100%;
 }
 
 #search-input {
@@ -82,6 +84,8 @@ header {
     background-color: transparent;
     color: var(--text-color);
     font-size: 1em;
+    flex-grow: 1;
+    min-width: 0;
 }
 
 #search-button {
@@ -91,6 +95,7 @@ header {
     padding: 10px 15px;
     cursor: pointer;
     transition: background-color 0.3s ease;
+    flex-shrink: 0;
 }
 
 #search-button:hover {
