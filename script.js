@@ -4,12 +4,12 @@ let displayedArticles = 0;
 const articlesPerLoad = 10;
 
 const categoryImages = {
-    'ראשי': 'https://images.unsplash.com/photo-1495020689067-958852a7765e',
-    'מדיני': 'https://images.unsplash.com/photo-1529107386315-e1a2ed48a620',
-    'כלכלה': 'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3',
-    'ספורט': 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211',
-    'תרבות': 'https://images.unsplash.com/photo-1513364776144-60967b0f800f',
-    'ביטחון': 'https://images.unsplash.com/photo-1542451542907-6cf80ff362d6'
+    'ראשי': 'images/main.jpg',
+    'מדיני': 'images/political.jpg',
+    'כלכלה': 'images/economy.jpg',
+    'ספורט': 'images/sports.jpg',
+    'תרבות': 'images/culture.jpg',
+    'ביטחון': 'images/security.jpg'
 };
 
 async function getNews() {
