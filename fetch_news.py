@@ -2,6 +2,7 @@ import requests
 import json
 from datetime import datetime, timedelta
 import random
+import os
 
 API_KEY = os.environ['NEWS_API_KEY']
 
