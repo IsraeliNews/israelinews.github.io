@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "title": "מכירות נאות בשוק הדו-גלגלי, ועוד חדשות על שניים",
+      "description": "כבישים עמוסים, תחבורה ציבורית כושלת וערים פקוקות שולחים את הרוכבים לאולמות התצוגה, ויש גם דגמים חדשים ומעניינים. דו\"ח על שניים",
+      "url": "https://www.icar.co.il/motorcycle/h1ykk8nakg/",
+      "publishedAt": "2025-04-11T09:34:42Z",
+      "source": "Icar.co.il",
+      "category": "ראשי",
+      "imageUrl": "https://www.icar.co.il/_media/articles/8559.jpg",
+      "readTime": 8,
+      "author": null
+    },
+    {
       "title": "\"כמעט 50 אלף לזוג ל-11 ימים, אבל שווה כל פרוטה\": הישראלים גילו את הקרוזים היוקרתיים",
       "description": "סוויטות ענק מפוארות עם מרפסת לים וג'קוזי פרטי, ארוחות שף לחדר, באטלר אישי 24/7 וברים עם אלכוהול יקר במיוחד. לא מעט ישראלים יעבירו את הפסח הזה בשיט סופר-יוקרתי באוניות בוטיק אינטימיות או במתחמי VIP בתוך אוניות הנופש הגדולות עם שלל פינוקים וכיבודים כיד המלך. הט…",
       "url": "https://www.ynet.co.il/vacation/article/yokra14324496",
@@ -8,7 +19,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/10/ryxdi9mrC1g/ryxdi9mrC1g_0_0_1920_1080_0_large.jpg",
-      "readTime": 7,
+      "readTime": 3,
       "author": "איריס ליפשיץ-קליגר"
     },
     {
@@ -19,7 +30,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/05/HJ5F9hlFke/HJ5F9hlFke_291_0_2400_1351_0_large.jpg",
-      "readTime": 9,
+      "readTime": 8,
       "author": "איתמר אייכנר"
     },
     {
@@ -30,7 +41,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/11/15/HkYYDpVfJx/HkYYDpVfJx_0_0_850_479_0_large.jpg",
-      "readTime": 8,
+      "readTime": 3,
       "author": "איתמר אייכנר"
     },
     {
@@ -41,7 +52,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/08/rk7HbPGRyx/rk7HbPGRyx_141_29_888_500_0_large.jpg",
-      "readTime": 4,
+      "readTime": 10,
       "author": "מוגש מטעם \"ותן חלקנו\""
     },
     {
@@ -52,7 +63,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/07/SkguOjLWCke/SkguOjLWCke_0_201_3000_1689_0_large.jpg",
-      "readTime": 9,
+      "readTime": 10,
       "author": "אלישע בן קימון"
     },
     {
@@ -63,7 +74,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/06/S1Zm1sdJ0Jl/S1Zm1sdJ0Jl_0_0_1000_563_0_large.jpg",
-      "readTime": 9,
+      "readTime": 4,
       "author": "פרופ' רן בליצר"
     },
     {
@@ -74,7 +85,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/03/rJ11gXEV0OJx/rJ11gXEV0OJx_0_250_3000_1688_0_large.jpg",
-      "readTime": 5,
+      "readTime": 10,
       "author": "ynet"
     },
     {
@@ -85,7 +96,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/04/07/rkxA0HY3Xc/rkxA0HY3Xc_0_0_1920_1080_0_large.jpg",
-      "readTime": 3,
+      "readTime": 7,
       "author": "אורי חודי"
     },
     {
@@ -96,7 +107,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/06/B1IVg6JR1e/B1IVg6JR1e_0_148_1601_901_0_large.jpg",
-      "readTime": 9,
+      "readTime": 8,
       "author": "ynet"
     },
     {
@@ -107,7 +118,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/06/rk62m4Gtyx/rk62m4Gtyx_0_0_1417_945_0_large.jpg",
-      "readTime": 3,
+      "readTime": 10,
       "author": "ynet"
     },
     {
@@ -118,7 +129,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/19/S1vkaKu2kl/S1vkaKu2kl_0_0_850_479_0_large.jpg",
-      "readTime": 7,
+      "readTime": 6,
       "author": "נטעאל בנדל"
     },
     {
@@ -129,7 +140,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/BktzAYqayl/BktzAYqayl_0_63_3000_1689_0_large.jpg",
-      "readTime": 5,
+      "readTime": 10,
       "author": "סמדר שילוני"
     },
     {
@@ -140,7 +151,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 7,
+      "readTime": 6,
       "author": "דניאל אדלסון, ניו יורק"
     },
     {
@@ -151,7 +162,7 @@
       "source": "Icar.co.il",
       "category": "ראשי",
       "imageUrl": "https://www.icar.co.il/_media/articles/8494.jpg",
-      "readTime": 4,
+      "readTime": 9,
       "author": null
     },
     {
@@ -162,7 +173,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/rJfsAEHq6Je/rJfsAEHq6Je_1_92_1000_563_0_large.jpg",
-      "readTime": 9,
+      "readTime": 6,
       "author": "פרופ' משה פרנקל"
     },
     {
@@ -173,7 +184,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/SJWX4CFayx/SJWX4CFayx_0_20_800_451_0_large.jpg",
-      "readTime": 10,
+      "readTime": 7,
       "author": "ynet"
     },
     {
@@ -184,7 +195,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/r17ifHYTyl/r17ifHYTyl_0_0_607_342_0_large.jpg",
-      "readTime": 10,
+      "readTime": 6,
       "author": "אורי חודי"
     },
     {
@@ -195,7 +206,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/21/BJbSsRGfZR/BJbSsRGfZR_0_70_1000_563_0_large.jpg",
-      "readTime": 7,
+      "readTime": 10,
       "author": "בשיתוף באייר"
     },
     {
@@ -206,19 +217,118 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/24/SJQOpZy6Jl/SJQOpZy6Jl_0_0_691_389_0_large.jpg",
+      "readTime": 3,
+      "author": "ynet"
+    },
+    {
+      "title": "עופר ינאי חוגג: \"מבחינתי ניצחנו את חמאס. הם ניסו לשבור את הרוח שלנו ולא הצליחו\"",
+      "description": "הפועל ת\"א זכתה ביורוקאפ עם 0:2 על גראן קנאריה בגמר, והבעלים מיהר להכריז: \"הבאנו גאווה לכל עם ישראל, הישגים רבים עוד לפנינו\". מוטלי נבחר ל-MVP של הסדרה, מכבי ת\"א בירכה",
+      "url": "https://www.ynet.co.il/sport/israelibasketball/article/s1u9jyp0jl",
+      "publishedAt": "2025-04-11T21:18:16Z",
+      "source": "Ynet",
+      "category": "ראשי",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/11/SkZQnDfI0Jl/SkZQnDfI0Jl_0_295_853_481_0_large.jpg",
+      "readTime": 10,
+      "author": "אפרת עמורבן, ספרד"
+    },
+    {
+      "title": "צה\"ל יירט כטב\"ם ששוגר מתימן - ושריפה פרצה בירדן מנפילת רסיסים",
+      "description": "בפעם השלישית תוך שבוע יירט צה\"ל כלי טיס בלתי מאויש ששיגרו החות'ים - לפני שחצה לשטח ישראל. צבא ירדן עדכן כי הכטב\"ם התרסק בשטחם ושריפות פרצו. גורם ביטחוני בירדן, הוסיף: \"צוות מחיל ההנדסה המלכותי בודק את האתר וחוקר את האירוע\"",
+      "url": "https://www.ynet.co.il/news/article/b100g00icye",
+      "publishedAt": "2025-04-11T18:59:29Z",
+      "source": "Ynet",
+      "category": "ראשי",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/11/BybPMJ1wCyl/BybPMJ1wCyl_0_0_1280_720_0_large.jpg",
+      "readTime": 10,
+      "author": "יואב זיתון, ליאור בן ארי"
+    },
+    {
+      "title": "מקרון: \"עמדת צרפת - כן למדינה פלסטינית בלי חמאס\"",
+      "description": "לאחר שהצהיר שלשום כי ארצו תכיר בקרוב במדינה פלסטינית, נשיא צרפת עמנואל מקרון כתב בפוסט ברשת X: \"הנה העמדה של צרפת, שיהיה ברור: כן לשלום, כן לביטחון ישראל, כן למדינה פלסטינית בלי חמאס. זה דורש את שחרורם של כל החטופים, הפסקת אש בת-קיימא, את חידושו המיידי של הסי…",
+      "url": "https://www.ynet.co.il/news/article/hy600ec8rjg",
+      "publishedAt": "2025-04-11T17:31:17Z",
+      "source": "Ynet",
+      "category": "ראשי",
+      "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
+      "readTime": 8,
+      "author": "איתמר אייכנר"
+    },
+    {
+      "title": "האיום החדש של ארדואן, אחרי שיחות ה\"דה-אסקלציה\"",
+      "description": "יומיים אחרי השיחות בין נציגיו לנציגי ישראל, נשיא טורקיה מאשים שזו רוצה \"לפוצץ את המהפכה\" בסוריה ולזרוע בה פילוג - ומאיים: \"מי שרוצה להכאיב לעם הסורי - חייב להתכונן לשלם מחיר\". בצל הלחימה בעזה טען שוב: \"ישראל מדינת טרור. רק הבוקר 10 בני משפחה אחת נהרגו בחאן יו…",
+      "url": "https://www.ynet.co.il/news/article/skvzvsurkx",
+      "publishedAt": "2025-04-11T15:32:46Z",
+      "source": "Ynet",
+      "category": "ראשי",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/11/17/SkxDrEHNp/SkxDrEHNp_0_64_3000_1689_0_large.jpg",
+      "readTime": 8,
+      "author": "ליאור בן ארי"
+    },
+    {
+      "title": "יצאנו מעובדות לעבדות",
+      "description": "אנחנו בחג החירות. ונדמה שהמקהלה ששולטת ברוב כלי התקשורת המובילים במערב, כמו גם באקדמיה, לא הפסיקה לדקלם את אותו פזמון. הבנה, הצדקה ותמיכה בחמאס ודמוניזציה של ישראל. כל אלה שחזרו על אותו פזמון, כולל \"ארגוני ופעילי זכויות אדם\", לא טרחו לבדוק אפילו את נתוני חמאס",
+      "url": "https://www.ynet.co.il/news/article/yokra14329592",
+      "publishedAt": "2025-04-11T12:47:25Z",
+      "source": "Ynet",
+      "category": "ראשי",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/10/yk14330628/yk14330628_0_0_1035_749_0_large.jpg",
+      "readTime": 9,
+      "author": "בן-דרור ימיני"
+    },
+    {
+      "title": "הכדור אצל חמאס: ההצעות שעל הפרק והרחבת הודעות הפינוי, בצפון עזה ודרומה",
+      "description": "ארגון הטרור טרם התייחס רשמית להצעה המצרית, שחלקה לא מקובל גם על ישראל, פריצת דרך לעסקה עדיין אין. אמש נתניהו קיים דיון בנושא, מחר משלחת של חמאס תצא לקהיר. בעזה: תושבים תועדו עוזבים את אזור שג'אעיה שבצפון הרצועה, הודעות פינוי גם בדרום עזה. תיעוד: פיר במתחם ברפ…",
+      "url": "https://www.ynet.co.il/news/article/bj5scl8ckl",
+      "publishedAt": "2025-04-11T11:26:06Z",
+      "source": "Ynet",
+      "category": "ראשי",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/11/Bycq4LUAye/Bycq4LUAye_0_13_1600_901_0_large.jpg",
+      "readTime": 10,
+      "author": "כתבי ynet"
+    },
+    {
+      "title": "מישל בנאים זכה באליפות ישראל בפוקר הגדולה אי פעם",
+      "description": "בנאים, לבורנט במעבדה כימית בעיסוקו המרכזי, הוכיח שיש לו כימיה טובה גם עם הקלפים, וניצח באליפות שסחפה 2,386 כניסות: \"התואר הזה היה חשוב לי יותר מכל תואר אחר\". הפרס הכספי: 82 אלף אירו",
+      "url": "https://www.ynet.co.il/sport/article/sytovvicyg",
+      "publishedAt": "2025-04-11T06:45:50Z",
+      "source": "Ynet",
+      "category": "ראשי",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/11/r1311ONL0kg/r1311ONL0kg_0_100_1052_593_0_large.jpg",
+      "readTime": 3,
+      "author": "אליסף דעואל"
+    },
+    {
+      "title": "השבוע שבו אדם הפכפך אחד הטריף את כל העולם",
+      "description": "הפגיעה הכלכלית מהמכסים של טראמפ אינה פוסחת על החברות האמריקניות, המיליונרים ועובדי ההייטק מצביעים ברגליים ועוזבים את ישראל וצו המאסר למייסד אמבלייז | \"הצמרת הכלכלית\" – הכתבות הנצפות של השבוע",
+      "url": "https://www.ynet.co.il/economy/article/hjifvvbrjg",
+      "publishedAt": "2025-04-11T05:11:10Z",
+      "source": "Ynet",
+      "category": "ראשי",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/11/HywngBpjJg/HywngBpjJg_0_0_3000_2000_0_large.jpg",
       "readTime": 7,
       "author": "ynet"
     },
     {
-      "title": "\"פה אני לא לבד\": הצצה מיוחדת למקום שבו החטופים חוזרים לחיים",
-      "description": "במרחבים השקטים של כפר המכביה מתרחש הבלתי ייאמן: תמונות המאבק הפכו לאנשים חיים שמטיילים במדשאות, וחטופים ששבו מצאו בו בית. כאן, בין שיאצו לתשאולי שב״כ, נרקמות חברויות חדשות, והריפוי הופך משותף. ״אין לי בית אחר״, אומרת לנה טרופנוב. עדה שגיא: ״הגעתי רק עם שני תי…",
-      "url": "https://www.ynet.co.il/news/article/b18dqlgtkl",
-      "publishedAt": "2025-03-28T17:56:19Z",
+      "title": "נוהגים לעשות טוב: שיתוף פעולה מיוחד על גלגלים",
+      "description": "בימים המורכבים שלפני חג הפסח, טויוטה ישראל בשיתוף עמותת סח\"י יצאו במבצע התנדבות מיוחד - לקוחות החברה מרחבי הארץ, הוזמנו להגיע לסוכנויות עם רכבי הטויוטה שלהם, לאסוף סלי מזון ולהעבירם למשפחות מעוטות יכולת, כדי שיהיה להן קצת יותר שמח בחג",
+      "url": "https://www.ynet.co.il/activism/article/b1v00rxbcyx",
+      "publishedAt": "2025-04-11T05:00:29Z",
       "source": "Ynet",
       "category": "ראשי",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/27/Bk11JML11Makx/Bk11JML11Makx_0_106_1600_901_0_large.jpg",
-      "readTime": 8,
-      "author": "הגר כוכבי"
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/11/B1S4ZXUR1l/B1S4ZXUR1l_69_0_529_298_0_large.jpg",
+      "readTime": 9,
+      "author": "בשיתוף TOYOTA"
+    },
+    {
+      "title": "היהודים לא מתגעגעים לסוריה: \"אני קשור לשורשים שלי, אבל לא לאדמה\"",
+      "description": "יהודי סוריה, כ-40 אלף איש, התפזרו למקומות שונים בעולם: מלבד ישראל אפשר למצוא קהילות פעילות גם בארה\"ב, במקסיקו, בארגנטינה ואפילו בפנמה. מאז שעזבו את סוריה עברו על המדינה השכנה גלגולים רבים, עד לנפילת משטר אסד לפני ארבעה חודשים | מסע בעקבות יהודי סוריה: מה הם ח…",
+      "url": "https://www.ynet.co.il/judaism/discourse/article/hj11edwgtyl",
+      "publishedAt": "2025-04-11T04:00:00Z",
+      "source": "Ynet",
+      "category": "ראשי",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/31/HyFfhsPpkx/HyFfhsPpkx_0_216_1280_721_0_large.jpg",
+      "readTime": 9,
+      "author": "יניב פוהורילס"
     },
     {
       "title": "גורל משותף, חזון משותף",
@@ -228,19 +338,8 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/31/SyU6G4b8kx/SyU6G4b8kx_0_0_1000_563_0_large.jpg",
-      "readTime": 4,
+      "readTime": 9,
       "author": "הרב שמואל סלוטקי"
-    },
-    {
-      "title": "יעקב פרנקל: \"נוצר כאן ועכשיו חוסר ודאות באשר לעתידנו\"",
-      "description": "פרופ' יעקב פרנקל, נגיד בנק ישראל לשעבר ומבכירי הכלכלנים בעולם, מודאג מאוד. הוא חרד מ\"הקפריזות\" של טראמפ וחושב שתוכנית המכסים היא טעות בסדר גודל היסטורי. ויש לו כיהודי מסורתי מסר לעם ישראל לחג החירות: \"איבדנו את הרגישות לפלגנות והסתה. חברה שלא מטפלת בריקבון מב…",
-      "url": "https://www.ynet.co.il/economy/article/yokra14330434",
-      "publishedAt": "2025-04-10T21:00:00Z",
-      "source": "Ynet",
-      "category": "ראשי",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/10/S1kWKrrAyg/S1kWKrrAyg_0_57_2205_1241_0_large.jpg",
-      "readTime": 8,
-      "author": "סבר פלוצקר"
     },
     {
       "title": "\"העם צריך ריסטארט אמיתי, ורק מי שהיה במלחמה יכול לעשות את זה. המטרה שלנו היא להנהיג את ישראל\"",
@@ -250,8 +349,19 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/10/yk14329677/yk14329677_0_210_1201_677_0_large.jpg",
-      "readTime": 3,
+      "readTime": 8,
       "author": "דרור פויר"
+    },
+    {
+      "title": "יעקב פרנקל: \"נוצר כאן ועכשיו חוסר ודאות באשר לעתידנו\"",
+      "description": "פרופ' יעקב פרנקל, נגיד בנק ישראל לשעבר ומבכירי הכלכלנים בעולם, מודאג מאוד. הוא חרד מ\"הקפריזות\" של טראמפ וחושב שתוכנית המכסים היא טעות בסדר גודל היסטורי. ויש לו כיהודי מסורתי מסר לעם ישראל לחג החירות: \"איבדנו את הרגישות לפלגנות והסתה. חברה שלא מטפלת בריקבון מב…",
+      "url": "https://www.ynet.co.il/economy/article/yokra14330434",
+      "publishedAt": "2025-04-10T21:00:00Z",
+      "source": "Ynet",
+      "category": "ראשי",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/10/S1kWKrrAyg/S1kWKrrAyg_0_57_2205_1241_0_large.jpg",
+      "readTime": 5,
+      "author": "סבר פלוצקר"
     },
     {
       "title": "מה עומד מאחורי המתח חסר התקדים מול טורקיה",
@@ -261,7 +371,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/29/Hk800wbyL1e/Hk800wbyL1e_0_8_853_481_0_large.jpg",
-      "readTime": 8,
+      "readTime": 5,
       "author": "מיכאל מילשטיין"
     },
     {
@@ -272,7 +382,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/09/HyoLP0Q0kl/HyoLP0Q0kl_0_1_850_479_0_large.jpg",
-      "readTime": 3,
+      "readTime": 9,
       "author": "ידיעות אחרונות"
     },
     {
@@ -283,7 +393,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/07/Sygm11h00ZAye/Sygm11h00ZAye_0_169_3000_1689_0_large.jpg",
-      "readTime": 3,
+      "readTime": 5,
       "author": "רז שכניק"
     },
     {
@@ -294,7 +404,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/23/SkSYTuAISJg/SkSYTuAISJg_0_29_3000_1689_0_large.jpg",
-      "readTime": 10,
+      "readTime": 5,
       "author": "ליאור בן ארי"
     },
     {
@@ -305,7 +415,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/07/29/By9YefrFC/By9YefrFC_0_0_850_479_0_large.jpg",
-      "readTime": 3,
+      "readTime": 7,
       "author": "איתמר אייכנר"
     },
     {
@@ -316,7 +426,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/20/rJ4KaOMHyl/rJ4KaOMHyl_5_0_2996_1685_0_large.jpg",
-      "readTime": 9,
+      "readTime": 4,
       "author": "מירב קריסטל"
     },
     {
@@ -327,118 +437,8 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/08/14/BJ64Ebcc0/BJ64Ebcc0_0_107_1024_576_0_large.jpg",
-      "readTime": 4,
+      "readTime": 8,
       "author": "דותן לוי, כלכליסט"
-    },
-    {
-      "title": "100 אסירי עולם עבור חטוף אחד, וכנאפה בקטאר: סודות המו\"מ החשאי בין ארה\"ב לחמאס",
-      "description": "פעם אחת הצליחה ישראל לסכל אותן, אך בפעם השנייה גילתה בדיעבד - וזעמה: לפי תחקיר \"ניו יורק טיימס\", 3 פעמים פגשו נציגי ממשל טראמפ את בכירי חמאס במתחם מוקף חומה בקטאר, והציגו להם הצעות עבור שחרור עידן אלכסנדר - מבלי לבדוק אם ישראל מוכנה. ההסכמות מאחורי הקלעים, וה…",
-      "url": "https://www.ynet.co.il/news/article/h1geya4ryx",
-      "publishedAt": "2025-04-10T10:22:11Z",
-      "source": "Ynet",
-      "category": "ראשי",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/08/SkOwYVqoJe/SkOwYVqoJe_0_0_850_479_0_large.jpg",
-      "readTime": 6,
-      "author": "ynet"
-    },
-    {
-      "title": "נציגי ישראל וטורקיה נפגשו באזרבייג'ן: \"בסיסים טורקיים בתדמור - קו אדום\"",
-      "description": "שתי המדינות מנסות להימנע מהתנגשויות בסוריה, ובתיווך אזרי מתקיימים מגעים שנועדו לצלוח את המשבר. לפי הטורקים, ישראל הציעה לחלק את סוריה לשלושה אזורי שליטה; בירושלים חותרים למנגנון \"דה-אסקלציה\" דומה לזה שהיה עם רוסיה, \"טלפון אדום\" שימנע אי-הבנות בין הצדדים",
-      "url": "https://www.ynet.co.il/news/article/s1iyvfrrkg",
-      "publishedAt": "2025-04-10T09:48:51Z",
-      "source": "Ynet",
-      "category": "ראשי",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/29/Hk800wbyL1e/Hk800wbyL1e_0_8_853_481_0_large.jpg",
-      "readTime": 7,
-      "author": "איתמר אייכנר"
-    },
-    {
-      "title": "העיתונאי ישראל קצובר הלך לעולמו בגיל 78",
-      "description": "קצובר, שבין היתר עבד ככתב, פרשן ועורך בשלל עיתונים, היה מי שחשיפה שלו בדבר חילול שבת בטקס הצגת מטוסי ה-F15 בישראל הובילה, בסופו של דבר, למהפך בבחירות 1977",
-      "url": "https://www.ynet.co.il/entertainment/article/hyjmxzh01e",
-      "publishedAt": "2025-04-10T08:41:40Z",
-      "source": "Ynet",
-      "category": "ראשי",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/10/rJGgNWB0yl/rJGgNWB0yl_185_1_853_481_0_large.jpg",
-      "readTime": 8,
-      "author": "רן בוקר"
-    },
-    {
-      "title": "אלו הבעיות בטענה על הדיפ-סטייט בישראל",
-      "description": "אם ישראל נשלטת על ידי פקידים שעושים מה שהם רוצים – ואיך ייתכן, אגב, שאחרי חמישה עשורים של שלטון ימין אותם פקידים נותרו בתפקידם אם הם כה גרועים? - אפשר להחליפם במומחים אחרים. אבל נתניהו ותומכיו לא מציעים גלריה של מומחים חדשים, אלא מסתפקים בהאשמות נגד מדיניות ח…",
-      "url": "https://www.ynet.co.il/news/article/yokra14329515",
-      "publishedAt": "2025-04-10T06:16:41Z",
-      "source": "Ynet",
-      "category": "ראשי",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/19/SygZFpnd3kx/SygZFpnd3kx_0_0_850_479_0_large.jpg",
-      "readTime": 9,
-      "author": "אבי שילון"
-    },
-    {
-      "title": "קרעי: \"זו העת לשחרר את ישראל משלטון הדיפ-סטייט ומדיקטטורת בג\"ץ\"",
-      "description": "שר התקשורת שלמה קרעי פנה לראש הממשלה בנימין נתניהו בחשבונו ברשת X, וכתב: \"הגיע הזמן לקרוא: שלח את עמי! זוהי העת לשחרר את מדינת ישראל משלטון הדיפ-סטייט, מדיקטטורת בג\"ץ והיועמ\"שית ומהחתרנות של ראש השב״כ הכושל. בידיך הדבר\". הוא ציין כי \"כשאויבי ישראל, ובראשם ראש…",
-      "url": "https://www.ynet.co.il/news/article/ryqpc040jl",
-      "publishedAt": "2025-04-10T05:53:01Z",
-      "source": "Ynet",
-      "category": "ראשי",
-      "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 8,
-      "author": "ynet"
-    },
-    {
-      "title": "לפני המו\"מ, טראמפ שוב מאיים על איראן בפעולה צבאית: \"ישראל תוביל את זה\"",
-      "description": "לקראת פתיחת השיחות בין וושינגטון לטהרן, נשיא ארה\"ב שוב איים כי אם איראן לא תסכים לעסקה - תידרש פעולה צבאית. \"ישראל תהיה מעורבת, היא תהיה המובילה של זה\", אמר טראמפ, שהוסיף: \"אני לא מבקש הרבה, אבל אסור שיהיה לה נשק גרעיני\". שר ההגנה: מפציצי ה-B-2 הם מסר לאיראן?…",
-      "url": "https://www.ynet.co.il/news/article/bjfxfovc1g",
-      "publishedAt": "2025-04-10T02:06:48Z",
-      "source": "Ynet",
-      "category": "ראשי",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/07/ryeWfliLJe/ryeWfliLJe_0_0_853_481_0_large.jpg",
-      "readTime": 4,
-      "author": "ynet והסוכנויות"
-    },
-    {
-      "title": "לראשונה: 5 נשים יזכו בפרס ישראל - מתוך 10 זוכים",
-      "description": "אחרי שנים של חוסר ייצוג, מחצית מהזוכות בפרס ישראל השנה הן נשים. הסיבות: קמפיין הסברה של משרד החינוך, והגדלת מספר השופטות בוועדות הפרס. \"כשיש חזון ורצון - אפשר לתקן מציאות\", אמרה פעילה למען שוויון מגדרי. אלה הזוכות",
-      "url": "https://www.ynet.co.il/news/article/yokra14329536",
-      "publishedAt": "2025-04-09T21:00:00Z",
-      "source": "Ynet",
-      "category": "ראשי",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/09/Ske6WfEAyg/Ske6WfEAyg_0_0_850_479_0_large.jpg",
-      "readTime": 8,
-      "author": "תמר טרבלסי חדד"
-    },
-    {
-      "title": "מ\"יום השחרור\" ועד הקפאת המכסים: השבוע שבו טראמפ טלטל את הכלכלה העולמית",
-      "description": "בדיוק לפני שבוע הדהים נשיא ארה\"ב את העולם בצעד דרמטי של הטלת מכסים על כמעט כל הייבוא לארה\"ב. המהלך גרר ירידות חדות בשווקים, שמחקו הון בשווי של טריליוני דולרים, אזהרות כלכלנים מפני השלכות כבדות, ניסיונות של מדינות, בהן ישראל - לצמצם רוע הגזירה - והסלמה חריפה ש…",
-      "url": "https://www.ynet.co.il/economy/article/rkktz8nc1g",
-      "publishedAt": "2025-04-09T20:19:11Z",
-      "source": "Ynet",
-      "category": "ראשי",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/06/H1isYvPjkl/H1isYvPjkl_0_0_592_333_0_large.jpg",
-      "readTime": 4,
-      "author": "גד ליאור"
-    },
-    {
-      "title": "שר החוץ הטורקי מאשר: מקיימים שיחות עם ישראל בנוגע לסוריה",
-      "description": "בריאיון ל-CNN Turk, הקאן פידאן ציין כי ארצו מנהלת שיחות ישירות עם ירושלים כדי למנוע עימותים בסוריה. גורם ישראלי בכיר: רה\"מ נתניהו אמר בישיבת הקבינט שישראל לא מחפשת עימות עם טורקיה, אך לא תהסס לפעול במקרה הצורך",
-      "url": "https://www.ynet.co.il/news/article/rjg11ksvcyl",
-      "publishedAt": "2025-04-09T19:45:21Z",
-      "source": "Ynet",
-      "category": "ראשי",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/07/29/By9YefrFC/By9YefrFC_0_0_850_479_0_large.jpg",
-      "readTime": 8,
-      "author": "איתמר אייכנר"
-    },
-    {
-      "title": "\"חיבלו ברשת המים\": הירי בסכר, העימותים - והמתיחות הגוברת בין צה\"ל לסורים",
-      "description": "סוף ל\"ירח דבש\"? המתח בין הצבא לאוכלוסייה הסורית באזור החיץ גובר, במיוחד לאחר העימותים בדרעא שבהם נהרגו 10 אזרחים. התושבים טוענים שצה\"ל מבצע סיורים יומיים, בודק טלפונים ויורה לעבר רועי צאן. בעיתון קטארי נכתב: \"ישראל השתלטה על הסכר השני בגודלו בסוריה, שמספק מים…",
-      "url": "https://www.ynet.co.il/news/article/sjdat11mrye",
-      "publishedAt": "2025-04-09T19:08:21Z",
-      "source": "Ynet",
-      "category": "ראשי",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/05/yk14323391/yk14323391_0_16_709_400_0_large.jpg",
-      "readTime": 10,
-      "author": "ליאור בן ארי"
     },
     {
       "title": "מודל השריפה של Bitget Token (BGB) עודכן עם שריפה רבעונית ראשונה בהיקף של יותר מ-30 מיליון אסימונים",
@@ -448,7 +448,7 @@
       "source": "GlobeNewswire",
       "category": "ראשי",
       "imageUrl": "https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9",
-      "readTime": 10,
+      "readTime": 4,
       "author": "Bitget Limited"
     },
     {
@@ -459,7 +459,7 @@
       "source": "Ynet",
       "category": "ראשי",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/02/HkJlakV81g/HkJlakV81g_0_104_1000_563_0_large.jpg",
-      "readTime": 5,
+      "readTime": 7,
       "author": "שילֹה פריד"
     },
     {
@@ -481,7 +481,7 @@
       "source": "Icar.co.il",
       "category": "ראשי",
       "imageUrl": "https://www.icar.co.il/_media/articles/8497.jpg",
-      "readTime": 4,
+      "readTime": 6,
       "author": null
     },
     {
@@ -503,7 +503,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/10/HyKHmVDF1x/HyKHmVDF1x_0_31_1000_563_0_large.jpg",
-      "readTime": 10,
+      "readTime": 6,
       "author": "אסף רוזן"
     },
     {
@@ -514,7 +514,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/07/ryyBud11A1l/ryyBud11A1l_0_0_850_479_0_large.jpg",
-      "readTime": 3,
+      "readTime": 8,
       "author": "ליאור אוחנה"
     },
     {
@@ -525,7 +525,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/31/BkSQhqPa1x/BkSQhqPa1x_0_9_644_363_0_large.jpg",
-      "readTime": 3,
+      "readTime": 5,
       "author": "שרון כידון, איתן גליקמן"
     },
     {
@@ -536,7 +536,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/25/H1YKmDga1x/H1YKmDga1x_0_124_1280_721_0_large.jpg",
-      "readTime": 8,
+      "readTime": 6,
       "author": "לירן תמרי, גלעד כהן"
     },
     {
@@ -547,7 +547,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/20/rJbqwtY3kl/rJbqwtY3kl_0_35_801_451_0_large.jpg",
-      "readTime": 8,
+      "readTime": 7,
       "author": "הגר כוכבי"
     },
     {
@@ -558,7 +558,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/11/19/H1iemZqf1g/H1iemZqf1g_78_43_1830_1030_0_large.jpg",
-      "readTime": 4,
+      "readTime": 5,
       "author": "ynet"
     },
     {
@@ -569,7 +569,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/11/rJMYwr5OFyg/rJMYwr5OFyg_1_425_1416_798_0_large.jpg",
-      "readTime": 9,
+      "readTime": 5,
       "author": "מורן אזולאי"
     },
     {
@@ -580,7 +580,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/02/06/SyR7UKyjp/SyR7UKyjp_0_17_838_472_0_large.jpg",
-      "readTime": 9,
+      "readTime": 4,
       "author": "סיון חילאי, מורן אזולאי"
     },
     {
@@ -591,7 +591,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2017/10/30/8119095/8119095_0_27_1300_732_0_large.jpg",
-      "readTime": 8,
+      "readTime": 9,
       "author": "איתמר אייכנר"
     },
     {
@@ -602,7 +602,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/25/S1eLpvFKH1g/S1eLpvFKH1g_213_87_972_547_0_large.jpg",
-      "readTime": 7,
+      "readTime": 10,
       "author": "סיון חילאי"
     },
     {
@@ -613,7 +613,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/03/20/r1jty1Ugn/r1jty1Ugn_0_85_1617_910_0_large.jpg",
-      "readTime": 3,
+      "readTime": 4,
       "author": "מורן אזולאי"
     },
     {
@@ -624,7 +624,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/27/ByJ0sg76Jx/ByJ0sg76Jx_241_301_240_135_0_large.jpg",
-      "readTime": 9,
+      "readTime": 6,
       "author": "איתמר אייכנר"
     },
     {
@@ -635,7 +635,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 3,
+      "readTime": 9,
       "author": "ynet"
     },
     {
@@ -646,7 +646,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/26/S14S8BbaJg/S14S8BbaJg_411_108_858_483_0_large.jpg",
-      "readTime": 10,
+      "readTime": 9,
       "author": "סיון חילאי"
     },
     {
@@ -668,7 +668,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/20/SJbLjAsK31e/SJbLjAsK31e_0_85_3000_1688_0_large.jpg",
-      "readTime": 8,
+      "readTime": 10,
       "author": "איתמר אייכנר"
     },
     {
@@ -679,7 +679,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/03/03/Hk11898zTT/Hk11898zTT_0_313_3000_1689_0_large.jpg",
-      "readTime": 10,
+      "readTime": 6,
       "author": "איתמר אייכנר"
     },
     {
@@ -690,7 +690,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/01/15/ryU00ssg6t/ryU00ssg6t_0_0_850_479_0_large.jpg",
-      "readTime": 3,
+      "readTime": 6,
       "author": "עמיחי אתאלי"
     },
     {
@@ -701,7 +701,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/20/ryLq36Khke/ryLq36Khke_0_199_1280_721_0_large.jpg",
-      "readTime": 10,
+      "readTime": 3,
       "author": "רענן בן צור"
     },
     {
@@ -712,7 +712,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/20/r1NqjQKhkg/r1NqjQKhkg_0_86_629_355_0_large.jpg",
-      "readTime": 8,
+      "readTime": 5,
       "author": "שילֹה פריד"
     },
     {
@@ -723,7 +723,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/09/HJxkYf4pIyg/HJxkYf4pIyg_0_36_827_466_0_large.jpg",
-      "readTime": 5,
+      "readTime": 7,
       "author": "סיון חילאי, טובה צימוקי"
     },
     {
@@ -734,7 +734,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/10/yk14329677/yk14329677_0_210_1201_677_0_large.jpg",
-      "readTime": 8,
+      "readTime": 6,
       "author": "דרור פויר"
     },
     {
@@ -745,7 +745,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/19/SyM3XVdhke/SyM3XVdhke_0_0_850_479_0_large.jpg",
-      "readTime": 7,
+      "readTime": 9,
       "author": "יובל אלבשן"
     },
     {
@@ -756,7 +756,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/07/H1z8dGbC1g/H1z8dGbC1g_0_295_3000_1689_0_large.jpg",
-      "readTime": 4,
+      "readTime": 8,
       "author": "רז שכניק, עמיחי אתאלי"
     },
     {
@@ -767,7 +767,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/03/BkQGAd1126yl/BkQGAd1126yl_0_0_3000_1689_0_large.jpg",
-      "readTime": 7,
+      "readTime": 4,
       "author": "לימור לבנת"
     },
     {
@@ -778,7 +778,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/03/HyBA5I3Tke/HyBA5I3Tke_0_0_850_479_0_large.jpg",
-      "readTime": 9,
+      "readTime": 3,
       "author": "נדב צנציפר"
     },
     {
@@ -789,7 +789,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/01/28/BygLe4lm2s/BygLe4lm2s_0_0_1280_725_0_large.jpg",
-      "readTime": 8,
+      "readTime": 4,
       "author": "איתמר אייכנר"
     },
     {
@@ -800,7 +800,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/SJk2U00t6ke/SJk2U00t6ke_0_0_832_464_0_large.jpg",
-      "readTime": 9,
+      "readTime": 6,
       "author": "יעל צ'כנובר"
     },
     {
@@ -811,7 +811,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/31/ryzgj0druaJx/ryzgj0druaJx_0_122_1280_721_0_large.jpg",
-      "readTime": 5,
+      "readTime": 10,
       "author": "גלעד כהן, לירן תמרי"
     },
     {
@@ -822,7 +822,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/27/SkoLkFMayg/SkoLkFMayg_0_0_568_316_0_large.jpg",
-      "readTime": 4,
+      "readTime": 9,
       "author": "נחום ברנע"
     },
     {
@@ -833,7 +833,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/27/r1gVJv1176Jg/r1gVJv1176Jg_0_0_3000_2001_0_large.jpg",
-      "readTime": 10,
+      "readTime": 9,
       "author": "סימה קדמון"
     },
     {
@@ -844,7 +844,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/27/rJWVom76ye/rJWVom76ye_0_0_1280_720_0_large.jpg",
-      "readTime": 3,
+      "readTime": 4,
       "author": "מוטי שקלאר"
     },
     {
@@ -855,7 +855,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/25/rkdqRXeTyx/rkdqRXeTyx_0_0_850_479_0_large.jpg",
-      "readTime": 4,
+      "readTime": 3,
       "author": "עקיבא לם"
     },
     {
@@ -866,7 +866,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 9,
+      "readTime": 7,
       "author": "יעל צ'כנובר"
     },
     {
@@ -877,7 +877,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 9,
+      "readTime": 7,
       "author": "יעל צ'כנובר"
     },
     {
@@ -888,7 +888,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/01/15/ryU00ssg6t/ryU00ssg6t_0_0_850_479_0_large.jpg",
-      "readTime": 10,
+      "readTime": 9,
       "author": "עמיחי אתאלי"
     },
     {
@@ -899,7 +899,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/18/rkTv1SDnJx/rkTv1SDnJx_0_0_1272_709_0_large.jpg",
-      "readTime": 9,
+      "readTime": 5,
       "author": "רונן ברגמן"
     },
     {
@@ -910,7 +910,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/09/HJxkYf4pIyg/HJxkYf4pIyg_0_36_827_466_0_large.jpg",
-      "readTime": 7,
+      "readTime": 9,
       "author": "סיון חילאי, טובה צימוקי"
     },
     {
@@ -921,7 +921,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/18/r1xAOKWvhkl/r1xAOKWvhkl_34_126_757_426_0_large.jpg",
-      "readTime": 7,
+      "readTime": 10,
       "author": "גד ליאור"
     },
     {
@@ -932,7 +932,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/13/S111EX5KfDJl/S111EX5KfDJl_2_0_1599_901_0_large.jpg",
-      "readTime": 9,
+      "readTime": 3,
       "author": "סמדר שילוני"
     },
     {
@@ -943,7 +943,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/17/B1yDQurnJg/B1yDQurnJg_0_0_850_479_0_large.jpg",
-      "readTime": 3,
+      "readTime": 10,
       "author": "תמר טרבלסי חדד"
     },
     {
@@ -954,7 +954,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/19/SygZFpnd3kx/SygZFpnd3kx_0_0_850_479_0_large.jpg",
-      "readTime": 6,
+      "readTime": 7,
       "author": "אבי שילון"
     },
     {
@@ -976,7 +976,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/02/r1WJSKy4LJg/r1WJSKy4LJg_0_157_2678_1508_0_large.jpg",
-      "readTime": 3,
+      "readTime": 8,
       "author": "רפאל קאהאן"
     },
     {
@@ -987,7 +987,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/18/HJ6LVcAlR/HJ6LVcAlR_0_0_3000_1689_0_large.jpg",
-      "readTime": 9,
+      "readTime": 5,
       "author": "גד ליאור"
     },
     {
@@ -998,7 +998,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/08/rJHtfdf0Jg/rJHtfdf0Jg_0_0_1024_576_0_large.jpg",
-      "readTime": 4,
+      "readTime": 7,
       "author": "סוכנויות הידיעות"
     },
     {
@@ -1009,7 +1009,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/Hk1uE7oTJl/Hk1uE7oTJl_264_126_1400_788_0_large.jpg",
-      "readTime": 10,
+      "readTime": 3,
       "author": "ציפי שמילוביץ, ניו יורק"
     },
     {
@@ -1020,7 +1020,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/HyWeJmoT1l/HyWeJmoT1l_0_15_3000_1689_0_large.jpg",
-      "readTime": 7,
+      "readTime": 10,
       "author": "נתנאל וולוך"
     },
     {
@@ -1031,7 +1031,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/09/ryg58v6IJl/ryg58v6IJl_412_149_2189_1233_0_large.jpg",
-      "readTime": 5,
+      "readTime": 10,
       "author": "דניאל אדלסון, ניו יורק"
     },
     {
@@ -1042,7 +1042,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/H1xukQo61x/H1xukQo61x_0_38_3000_1689_0_large.jpg",
-      "readTime": 9,
+      "readTime": 8,
       "author": "ynet וסוכנויות הידיעות"
     },
     {
@@ -1053,7 +1053,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/HkfnZjKaye/HkfnZjKaye_0_158_2447_1378_0_large.jpg",
-      "readTime": 5,
+      "readTime": 3,
       "author": "ynet ספורט"
     },
     {
@@ -1064,7 +1064,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/r1zUsMGFTkx/r1zUsMGFTkx_700_876_1803_1015_0_large.jpg",
-      "readTime": 7,
+      "readTime": 9,
       "author": "AP"
     },
     {
@@ -1075,7 +1075,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/31/BkSQhqPa1x/BkSQhqPa1x_0_21_644_363_0_large.jpg",
-      "readTime": 6,
+      "readTime": 7,
       "author": "איתמר אייכנר"
     },
     {
@@ -1086,7 +1086,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/06/H1isYvPjkl/H1isYvPjkl_16_0_592_333_0_large.jpg",
-      "readTime": 7,
+      "readTime": 3,
       "author": "ynet"
     },
     {
@@ -1097,7 +1097,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/05/28/SJZ4NgnfVR/SJZ4NgnfVR_0_125_1280_721_0_large.jpg",
-      "readTime": 10,
+      "readTime": 7,
       "author": "גליה צבר, אסף מידני"
     },
     {
@@ -1108,7 +1108,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/26/r14rfi116yx/r14rfi116yx_298_156_570_321_0_large.jpg",
-      "readTime": 9,
+      "readTime": 5,
       "author": "איתמר אייכנר"
     },
     {
@@ -1119,7 +1119,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/25/ByULCJFH1g/ByULCJFH1g_0_0_529_298_0_large.jpg",
-      "readTime": 3,
+      "readTime": 10,
       "author": "אלישע בן קימון, רוני גרין שאולוב"
     },
     {
@@ -1130,7 +1130,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/11/15/HkYYDpVfJx/HkYYDpVfJx_0_0_850_479_0_large.jpg",
-      "readTime": 4,
+      "readTime": 6,
       "author": "רויטרס"
     },
     {
@@ -1141,7 +1141,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2016/10/16/7326598/7326598_0_111_1280_720_0_large.jpg",
-      "readTime": 8,
+      "readTime": 10,
       "author": "מירב קריסטל"
     },
     {
@@ -1152,7 +1152,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 5,
+      "readTime": 9,
       "author": "דניאל אדלסון, ניו יורק"
     },
     {
@@ -1163,7 +1163,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/13/r1eWxKlxnkl/r1eWxKlxnkl_0_0_3000_1689_0_large.jpg",
-      "readTime": 6,
+      "readTime": 4,
       "author": "דניאל אדלסון, ניו יורק"
     },
     {
@@ -1174,7 +1174,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/BJahD9F6kl/BJahD9F6kl_0_142_3000_1689_0_large.jpg",
-      "readTime": 6,
+      "readTime": 10,
       "author": "ynet והסוכנויות"
     },
     {
@@ -1185,7 +1185,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/27/ryrnrcz6ke/ryrnrcz6ke_300_52_1388_781_0_large.jpg",
-      "readTime": 9,
+      "readTime": 6,
       "author": "סמדר שילוני"
     },
     {
@@ -1196,7 +1196,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/25/SkGhgi00lpyx/SkGhgi00lpyx_0_0_1280_721_0_large.jpg",
-      "readTime": 6,
+      "readTime": 9,
       "author": "מאיר תורג'מן"
     },
     {
@@ -1207,7 +1207,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/10/21/By5hlgxEo/By5hlgxEo_0_0_1280_720_0_large.jpg",
-      "readTime": 3,
+      "readTime": 9,
       "author": "ליאור אוחנה"
     },
     {
@@ -1218,7 +1218,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/23/BysG4yAhkg/BysG4yAhkg_0_0_850_479_0_large.jpg",
-      "readTime": 9,
+      "readTime": 7,
       "author": "שרון כידון, מורן אזולאי"
     },
     {
@@ -1229,7 +1229,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/02/04/rJpzQU50F/rJpzQU50F_0_0_850_479_0_large.jpg",
-      "readTime": 8,
+      "readTime": 4,
       "author": "רועי רובינשטיין"
     },
     {
@@ -1240,7 +1240,7 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/04/27/r1TEgF9bR/r1TEgF9bR_0_0_1000_563_0_large.jpg",
-      "readTime": 8,
+      "readTime": 3,
       "author": "ענת לב-אדלר"
     },
     {
@@ -1251,8 +1251,19 @@
       "source": "Ynet",
       "category": "מדיני",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/16/B1XXc08Enyx/B1XXc08Enyx_0_148_2555_1439_0_large.jpg",
-      "readTime": 6,
+      "readTime": 4,
       "author": "שמוליק דובדבני"
+    },
+    {
+      "title": "הפה הגדול של ה-NBA ששווה מאות מיליוני דולרים",
+      "description": "עשרות מכוני כושר, מאוד מסעדות, שידורי טלוויזיה בלי סוף (בהם אומר כל מה שהוא רוצה) ואיש עסקים שחולש על חברות ענק | שאקיל אוניל היה סופרסטאר על מגרש הכדורסל, אבל מסתבר שהוא לא פחות טוב (ואולי אפילו יותר) דווקא בביזנס | אז למה לא בטוח שהילדים שלו יהיו מסודרים בח…",
+      "url": "https://www.ynet.co.il/sport/article/bkcuwzrr1g",
+      "publishedAt": "2025-04-11T03:00:00Z",
+      "source": "Ynet",
+      "category": "כלכלה",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/10/rk1YuWSCyg/rk1YuWSCyg_163_72_816_459_0_large.jpg",
+      "readTime": 3,
+      "author": "ציפי שמילוביץ, ניו יורק"
     },
     {
       "title": "מה גרם לטראמפ לחזור בו בפתאומיות מתוכנית המכסים שלו?",
@@ -1262,7 +1273,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/20/r1CNBlhv1g/r1CNBlhv1g_0_79_2066_1163_0_large.jpg",
-      "readTime": 3,
+      "readTime": 7,
       "author": "סוכנויות הידיעות"
     },
     {
@@ -1273,7 +1284,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/23/SyAXC6Oc1g/SyAXC6Oc1g_0_0_850_479_0_large.jpg",
-      "readTime": 10,
+      "readTime": 4,
       "author": "ynet והסוכנויות"
     },
     {
@@ -1284,7 +1295,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2017/12/28/8245681/8245681_0_0_1622_912_0_large.jpg",
-      "readTime": 8,
+      "readTime": 10,
       "author": "נווית זומר, ליטל דוברוביצקי"
     },
     {
@@ -1295,7 +1306,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/Hk1uE7oTJl/Hk1uE7oTJl_264_126_1400_788_0_large.jpg",
-      "readTime": 10,
+      "readTime": 7,
       "author": "ציפי שמילוביץ, ניו יורק"
     },
     {
@@ -1306,7 +1317,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/03/SkePvNzhTkl/SkePvNzhTkl_0_0_1920_1080_0_large.jpg",
-      "readTime": 8,
+      "readTime": 9,
       "author": "מיכאל מילשטיין"
     },
     {
@@ -1328,7 +1339,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/03/HJx11oa6ipJx/HJx11oa6ipJx_0_0_701_395_0_large.jpg",
-      "readTime": 10,
+      "readTime": 5,
       "author": "כלכלה"
     },
     {
@@ -1350,7 +1361,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/06/HyzyT0QKUJx/HyzyT0QKUJx_0_0_2048_1536_0_large.jpg",
-      "readTime": 4,
+      "readTime": 5,
       "author": "שילה פריד"
     },
     {
@@ -1361,7 +1372,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2021/08/26/10909501/10909501_0_102_981_552_0_large.jpg",
-      "readTime": 4,
+      "readTime": 7,
       "author": "גד ליאור"
     },
     {
@@ -1372,7 +1383,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/24/SyC9gDqckg/SyC9gDqckg_1_73_3000_1689_0_large.jpg",
-      "readTime": 6,
+      "readTime": 5,
       "author": "ציפי שמילוביץ, ניו יורק"
     },
     {
@@ -1383,7 +1394,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 5,
+      "readTime": 3,
       "author": "תמר טרבלסי חדד"
     },
     {
@@ -1394,7 +1405,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/25/Hyxd4Rylpkl/Hyxd4Rylpkl_0_140_1600_901_0_large.jpg",
-      "readTime": 6,
+      "readTime": 5,
       "author": "איריס ליפשיץ-קליגר"
     },
     {
@@ -1405,7 +1416,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/20/rySnxg53kg/rySnxg53kg_0_0_850_479_0_large.jpg",
-      "readTime": 6,
+      "readTime": 9,
       "author": "ynet והסוכנויות"
     },
     {
@@ -1416,7 +1427,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/23/Skgy5s621g/Skgy5s621g_0_91_721_406_0_large.jpg",
-      "readTime": 5,
+      "readTime": 9,
       "author": "איתמר אייכנר"
     },
     {
@@ -1427,7 +1438,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/07/28/9389837/9389837_1_0_1000_563_0_large.jpg",
-      "readTime": 4,
+      "readTime": 5,
       "author": "ישראל וולמן"
     },
     {
@@ -1482,7 +1493,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/07/21/SygnQ9UqdR/SygnQ9UqdR_0_28_483_272_0_large.jpg",
-      "readTime": 6,
+      "readTime": 8,
       "author": "רועי רובינשטיין, מאיר תורג'מן"
     },
     {
@@ -1493,7 +1504,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 3,
+      "readTime": 9,
       "author": "מאיר תורג'מן, רועי רובינשטיין"
     },
     {
@@ -1504,7 +1515,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/19/S1vkaKu2kl/S1vkaKu2kl_0_0_850_479_0_large.jpg",
-      "readTime": 3,
+      "readTime": 4,
       "author": "נטעאל בנדל"
     },
     {
@@ -1515,7 +1526,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/31/ryhb11OupJl/ryhb11OupJl_1_47_255_144_0_large.jpg",
-      "readTime": 3,
+      "readTime": 8,
       "author": "נטעאל בנדל"
     },
     {
@@ -1526,7 +1537,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/09/12/SkxIZ3C6Ah/SkxIZ3C6Ah_0_112_1300_732_0_large.jpg",
-      "readTime": 4,
+      "readTime": 8,
       "author": "שילה פריד"
     },
     {
@@ -1537,7 +1548,7 @@
       "source": "GlobeNewswire",
       "category": "כלכלה",
       "imageUrl": "https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9",
-      "readTime": 8,
+      "readTime": 7,
       "author": "Bitget Limited"
     },
     {
@@ -1548,7 +1559,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/29/HJZMNjHayx/HJZMNjHayx_0_68_3000_1689_0_large.jpg",
-      "readTime": 3,
+      "readTime": 10,
       "author": "ynet"
     },
     {
@@ -1559,7 +1570,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/10/30/Hy811ZhJ111x/Hy811ZhJ111x_54_257_1010_569_0_large.jpg",
-      "readTime": 7,
+      "readTime": 10,
       "author": "נטעאל בנדל, מורן אזולאי"
     },
     {
@@ -1581,7 +1592,7 @@
       "source": "Ynet",
       "category": "כלכלה",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/20/S15JHPtnkl/S15JHPtnkl_0_0_850_479_0_large.jpg",
-      "readTime": 9,
+      "readTime": 6,
       "author": "חיים ריבלין, שומרים"
     },
     {
@@ -1603,7 +1614,7 @@
       "source": "GlobeNewswire",
       "category": "כלכלה",
       "imageUrl": "https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9",
-      "readTime": 10,
+      "readTime": 4,
       "author": "Bitget Limited"
     },
     {
@@ -1614,30 +1625,8 @@
       "source": "GlobeNewswire",
       "category": "כלכלה",
       "imageUrl": "https://ml-eu.globenewswire.com/Resource/Download/1d6d5ad9-e478-4b92-a907-c63f166a3af9",
-      "readTime": 4,
-      "author": "Bitget Limited"
-    },
-    {
-      "title": "מיקרוסופט מזהירה: האקרים התחזו ל-Booking.com והפיצו נוזקות",
-      "description": "חוקרי אבטחה של החברה חשפו מתקפת סייבר מתוחכמת, שעדיין פעילה, בה האקרים הונו בעלי מלונות ודירות נופש. התוקפים השתמשו בטכניקת ClickFix כדי לגרום לקורבנות להפעיל פקודות זדוניות שהובילו לגניבת כספים ופרטי תשלום",
-      "url": "https://www.ynet.co.il/digital/technews/article/rycy4og3yl",
-      "publishedAt": "2025-03-13T15:15:01Z",
-      "source": "Ynet",
-      "category": "כלכלה",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2019/06/06/9291084/9291084_1_25_1000_563_0_large.jpg",
       "readTime": 6,
-      "author": "רפאל קאהאן"
-    },
-    {
-      "title": "לאחר הטענות ל\"מחטף\" של הקואליציה: אושרו הקצאות \"קרן העושר\" בדיון חוזר",
-      "description": "האופוזיציה התנגדה לאישור הקצאה של 189 מיליון שקל מרווחי הקרן לאזרחי ישראל, בטענה כי הוכנסו אליה כספים קואליציוניים. בעקבות החלטת יועמ\"שית הכנסת התקיים דיון מחודש - וניצול הכסף אושר רק לאחר שהח\"כים קיבלו תשובות על כל סעיפי חלוקת התקציב",
-      "url": "https://www.ynet.co.il/news/article/rky004vl31l",
-      "publishedAt": "2025-03-13T15:06:59Z",
-      "source": "Ynet",
-      "category": "כלכלה",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/12/BybxX9u12Jl/BybxX9u12Jl_0_86_1280_721_0_large.jpg",
-      "readTime": 10,
-      "author": "סיון חילאי"
+      "author": "Bitget Limited"
     },
     {
       "title": "היום הגדול בחייו של אוהד הפועל ת\"א | טור",
@@ -1647,7 +1636,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/24/B13V8M55ke/B13V8M55ke_0_261_3000_1689_0_large.jpg",
-      "readTime": 4,
+      "readTime": 9,
       "author": "ירון שילון"
     },
     {
@@ -1658,7 +1647,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/09/HJgGFCQRyx/HJgGFCQRyx_385_56_1348_759_0_large.jpg",
-      "readTime": 7,
+      "readTime": 4,
       "author": "בשיתוף גו של תנובה"
     },
     {
@@ -1669,7 +1658,7 @@
       "source": "Icar.co.il",
       "category": "ספורט",
       "imageUrl": "https://www.icar.co.il/_media/articles/8506.jpg",
-      "readTime": 5,
+      "readTime": 4,
       "author": null
     },
     {
@@ -1680,7 +1669,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/rJGfJLKT1x/rJGfJLKT1x_169_355_868_489_0_large.jpg",
-      "readTime": 5,
+      "readTime": 4,
       "author": "רז שכניק"
     },
     {
@@ -1691,7 +1680,7 @@
       "source": "GlobeNewswire",
       "category": "ספורט",
       "imageUrl": "https://ml.globenewswire.com/Resource/Download/8fd0e63f-f7d2-44dc-a867-c3c4f74e97fa",
-      "readTime": 6,
+      "readTime": 3,
       "author": "Ai-Media Technologies LLC"
     },
     {
@@ -1702,7 +1691,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/31/SJEKnfdTJe/SJEKnfdTJe_135_76_321_181_0_large.jpg",
-      "readTime": 4,
+      "readTime": 9,
       "author": "ynet ספורט"
     },
     {
@@ -1713,7 +1702,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/18/B1QSF50HA/B1QSF50HA_0_0_3000_1689_0_large.jpg",
-      "readTime": 3,
+      "readTime": 7,
       "author": "ציפי שמילוביץ, יאיר קטן"
     },
     {
@@ -1724,7 +1713,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/10/29/SkKkV60x1g/SkKkV60x1g_611_63_1748_984_0_large.jpg",
-      "readTime": 7,
+      "readTime": 10,
       "author": "זאב אברהמי"
     },
     {
@@ -1735,7 +1724,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/03/Bkgrx00e3pke/Bkgrx00e3pke_0_165_2880_1622_0_large.jpg",
-      "readTime": 3,
+      "readTime": 6,
       "author": "AP, יוגב ישראלי"
     },
     {
@@ -1746,7 +1735,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/HyvbFMo61e/HyvbFMo61e_0_0_850_479_0_large.jpg",
-      "readTime": 10,
+      "readTime": 8,
       "author": "לירן ביטון"
     },
     {
@@ -1757,7 +1746,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/21/HJivaHNHJg/HJivaHNHJg_0_51_3000_1689_0_large.jpg",
-      "readTime": 4,
+      "readTime": 5,
       "author": "דורי מוריק, KICK"
     },
     {
@@ -1768,7 +1757,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/29/rkf0U6BTyg/rkf0U6BTyg_1725_275_1276_719_0_large.jpg",
-      "readTime": 3,
+      "readTime": 5,
       "author": "ynet ספורט"
     },
     {
@@ -1790,7 +1779,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/16/rJMlct3VhJx/rJMlct3VhJx_0_0_2590_1459_0_large.jpg",
-      "readTime": 7,
+      "readTime": 9,
       "author": "עזר סלם, KICK"
     },
     {
@@ -1801,7 +1790,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/17/H1Aa2uH2Jx/H1Aa2uH2Jx_0_0_850_479_0_large.jpg",
-      "readTime": 10,
+      "readTime": 4,
       "author": "נדב צנציפר, ynet ספורט"
     },
     {
@@ -1812,7 +1801,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/17/H1Aa2uH2Jx/H1Aa2uH2Jx_0_0_850_479_0_large.jpg",
-      "readTime": 8,
+      "readTime": 5,
       "author": "נדב צנציפר"
     },
     {
@@ -1823,7 +1812,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/21/S1CexEI5kx/S1CexEI5kx_0_256_3000_1689_0_large.jpg",
-      "readTime": 3,
+      "readTime": 8,
       "author": "ynet ספורט"
     },
     {
@@ -1834,7 +1823,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/08/S1zZvDMCyx/S1zZvDMCyx_0_0_1024_576_0_large.jpg",
-      "readTime": 7,
+      "readTime": 5,
       "author": "ynet"
     },
     {
@@ -1845,7 +1834,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/03/04/SJwjtY766/SJwjtY766_47_35_1312_739_0_large.jpg",
-      "readTime": 3,
+      "readTime": 10,
       "author": "ynet ספורט"
     },
     {
@@ -1856,7 +1845,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/06/BJLt3s1RJx/BJLt3s1RJx_0_312_3000_1689_0_large.jpg",
-      "readTime": 3,
+      "readTime": 8,
       "author": "AFP"
     },
     {
@@ -1867,7 +1856,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/24/S1csqfyT1e/S1csqfyT1e_1_79_2048_1153_0_large.jpg",
-      "readTime": 9,
+      "readTime": 8,
       "author": "ynet ספורט"
     },
     {
@@ -1878,7 +1867,7 @@
       "source": "Ynet",
       "category": "ספורט",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/31/ByfJOFPpkg/ByfJOFPpkg_0_119_1548_872_0_large.jpg",
-      "readTime": 7,
+      "readTime": 3,
       "author": "ynet ספורט"
     },
     {
@@ -1889,7 +1878,7 @@
       "source": "Ynet",
       "category": "תרבות",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/08/SkExONf01l/SkExONf01l_0_181_1245_701_0_large.jpg",
-      "readTime": 6,
+      "readTime": 7,
       "author": "איילה אור-אל, לוס אנג׳לס"
     },
     {
@@ -1900,7 +1889,7 @@
       "source": "Ynet",
       "category": "תרבות",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/11/ryYbk4F00tJx/ryYbk4F00tJx_0_0_1181_665_0_large.jpg",
-      "readTime": 3,
+      "readTime": 5,
       "author": "דניאל אדלסון, ניו יורק"
     },
     {
@@ -1911,19 +1900,8 @@
       "source": "Ynet",
       "category": "תרבות",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/19/H1HqEMOnye/H1HqEMOnye_0_208_3000_1689_0_large.jpg",
-      "readTime": 5,
+      "readTime": 9,
       "author": "ynet"
-    },
-    {
-      "title": "קולנוע במיאמי ביץ' הקרין את \"אין ארץ אחרת\" - ועומד בפני סגירה: \"תעמולה שקרית\"",
-      "description": "לאחר שהוקרן הסרט הדוקומנטרי מעורר-המחלוקת, שזכה בפרס האוסקר ומתאר את מאבקם של תושבי כפרי מסאפר-יטא בשלטונות הישראלים, החליט ראש העיר לבטל את המימון העירוני לסינמטק המקומי - כמו גם לסיים את חוזה השכירות שלו, ובכך לסגור אותו הלכה למעשה. \"נקיטת צעדים בשל הקרנת ה…",
-      "url": "https://www.ynet.co.il/entertainment/article/syy6s5lhyx",
-      "publishedAt": "2025-03-13T18:04:32Z",
-      "source": "Ynet",
-      "category": "תרבות",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/03/SyuJE3GjJx/SyuJE3GjJx_0_0_3000_1689_0_large.jpg",
-      "readTime": 7,
-      "author": "דניאל אדלסון, ניו יורק"
     },
     {
       "title": "בלב המדבר: האוטובוס שהפך למקלט מוזיקלי לנוער בסיכון",
@@ -1933,7 +1911,7 @@
       "source": "Ynet",
       "category": "תרבות",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/S1eqRIqpye/S1eqRIqpye_0_617_1200_676_0_large.jpg",
-      "readTime": 7,
+      "readTime": 6,
       "author": "איריס ליפשיץ קליגר"
     },
     {
@@ -1944,7 +1922,7 @@
       "source": "Ynet",
       "category": "תרבות",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/26/rkAVfobpyx/rkAVfobpyx_0_0_850_479_0_large.jpg",
-      "readTime": 5,
+      "readTime": 7,
       "author": "יואב בירנברג"
     },
     {
@@ -1955,7 +1933,7 @@
       "source": "Ynet",
       "category": "תרבות",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/26/H1pRPOZ6yx/H1pRPOZ6yx_0_0_1778_1000_0_large.jpg",
-      "readTime": 3,
+      "readTime": 8,
       "author": "הדי בירן"
     },
     {
@@ -1966,7 +1944,7 @@
       "source": "Ynet",
       "category": "תרבות",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/24/ry72r1tChyx/ry72r1tChyx_140_213_985_555_0_large.jpg",
-      "readTime": 5,
+      "readTime": 9,
       "author": "יון פדר"
     },
     {
@@ -1977,19 +1955,8 @@
       "source": "Ynet",
       "category": "תרבות",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/19/H1HqEMOnye/H1HqEMOnye_0_208_3000_1689_0_large.jpg",
-      "readTime": 9,
+      "readTime": 7,
       "author": "ynet"
-    },
-    {
-      "title": "הדי ג'יי שמשמחת חיילים: \"הם שחררו אותי מהפחד להופיע\"",
-      "description": "אחרי ה-7 באוקטובר, הדי ג'יי עפרה ברעם הייתה משוכנעת שלא תעלה יותר על במה – ואז הגיעו הבקשות מחיילים. מאז, היא מכניסה אור והרבה מוזיקה לבסיסים, והקימה חמ\"ל של חברים ודי ג'ייאים שמגיעים לעשות שמח ביוזמת החיילים. בהתרגשות גדולה, היא מספרת היום: \"הם שחררו את הפחד…",
-      "url": "https://www.ynet.co.il/activism/article/s1zxnr0j1l",
-      "publishedAt": "2025-03-13T05:00:00Z",
-      "source": "Ynet",
-      "category": "תרבות",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/12/ByzJobJ2yl/ByzJobJ2yl_397_352_1083_609_0_large.jpg",
-      "readTime": 9,
-      "author": "בשיתוף עמותת \"רוח טובה\" מקבוצת אריסון"
     },
     {
       "title": "משה קפטן מונה למנכ\"ל ולמנהל האמנותי של תיאטרון חיפה",
@@ -1999,7 +1966,7 @@
       "source": "Ynet",
       "category": "תרבות",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/09/HJZldGNC1l/HJZldGNC1l_0_89_2001_1126_0_large.jpg",
-      "readTime": 10,
+      "readTime": 6,
       "author": "יואב בירנברג"
     },
     {
@@ -2010,7 +1977,7 @@
       "source": "Ynet",
       "category": "תרבות",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/07/B1wMiGb0kl/B1wMiGb0kl_0_54_1000_563_0_large.jpg",
-      "readTime": 10,
+      "readTime": 4,
       "author": "ynet"
     },
     {
@@ -2021,7 +1988,7 @@
       "source": "GlobeNewswire",
       "category": "תרבות",
       "imageUrl": "https://ml.globenewswire.com/Resource/Download/c4fec6fb-4fbe-48bf-b491-0063b8d00cb3",
-      "readTime": 10,
+      "readTime": 6,
       "author": "Visual Arts Commission"
     },
     {
@@ -2043,7 +2010,7 @@
       "source": "Ynet",
       "category": "תרבות",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/20/yk14303985/yk14303985_0_31_2620_1475_0_large.jpg",
-      "readTime": 10,
+      "readTime": 9,
       "author": "שושנה חן"
     },
     {
@@ -2054,7 +2021,7 @@
       "source": "Ynet",
       "category": "תרבות",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/11/ryYbk4F00tJx/ryYbk4F00tJx_0_0_1181_665_0_large.jpg",
-      "readTime": 9,
+      "readTime": 8,
       "author": "דניאל אדלסון, ניו יורק"
     },
     {
@@ -2065,7 +2032,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/11/05/r1ioBa4mp/r1ioBa4mp_1_395_964_543_0_large.jpg",
-      "readTime": 3,
+      "readTime": 10,
       "author": "יואב זיתון"
     },
     {
@@ -2076,7 +2043,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 6,
+      "readTime": 5,
       "author": "ynet"
     },
     {
@@ -2087,7 +2054,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/09/rk9piIERke/rk9piIERke_0_0_850_479_0_large.jpg",
-      "readTime": 6,
+      "readTime": 4,
       "author": "חסן שעלאן"
     },
     {
@@ -2098,7 +2065,7 @@
       "source": "Icar.co.il",
       "category": "ביטחון",
       "imageUrl": "https://www.icar.co.il/_media/articles/8517.jpg",
-      "readTime": 7,
+      "readTime": 9,
       "author": null
     },
     {
@@ -2109,7 +2076,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/10/30/SygP3E5az6/SygP3E5az6_0_102_479_270_0_large.jpg",
-      "readTime": 6,
+      "readTime": 7,
       "author": "אלישע בן קימון"
     },
     {
@@ -2120,7 +2087,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/26/ByQWrj3Zp1g/ByQWrj3Zp1g_0_131_2560_1440_0_large.jpg",
-      "readTime": 5,
+      "readTime": 10,
       "author": "אלכסנדרה לוקש"
     },
     {
@@ -2142,7 +2109,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/07/one1800079/one1800079_0_0_800_444_0_large.jpg",
-      "readTime": 6,
+      "readTime": 7,
       "author": "מערכת ONE"
     },
     {
@@ -2153,7 +2120,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 7,
+      "readTime": 4,
       "author": "נטעאל בנדל"
     },
     {
@@ -2164,7 +2131,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/07/29/By9YefrFC/By9YefrFC_0_0_850_479_0_large.jpg",
-      "readTime": 8,
+      "readTime": 4,
       "author": "ליאור בן ארי"
     },
     {
@@ -2175,7 +2142,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/03/ryS59ai6Jl/ryS59ai6Jl_0_0_850_479_0_large.jpg",
-      "readTime": 4,
+      "readTime": 7,
       "author": "יואב זיתון"
     },
     {
@@ -2186,7 +2153,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/SkS5Ifjpyg/SkS5Ifjpyg_0_0_1000_563_0_large.jpg",
-      "readTime": 7,
+      "readTime": 10,
       "author": "אלי מנדלבאום"
     },
     {
@@ -2197,7 +2164,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/19/HyQLd6vuhkx/HyQLd6vuhkx_580_1034_1318_742_0_large.jpg",
-      "readTime": 9,
+      "readTime": 3,
       "author": "סיון חילאי, שילֹה פריד"
     },
     {
@@ -2208,7 +2175,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2015/11/16/6637221/6637221_0_0_1000_563_0_large.jpg",
-      "readTime": 6,
+      "readTime": 5,
       "author": "ליז טומפורד"
     },
     {
@@ -2230,7 +2197,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/07/SygjJ00VMEJe/SygjJ00VMEJe_0_43_2486_1400_0_large.jpg",
-      "readTime": 4,
+      "readTime": 8,
       "author": "שי מוגילבסקי"
     },
     {
@@ -2252,7 +2219,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/28/SkZI1zZV6Je/SkZI1zZV6Je_0_0_1000_563_0_large.jpg",
-      "readTime": 6,
+      "readTime": 8,
       "author": "אלישע בן קימון, עינב חלבי"
     },
     {
@@ -2263,7 +2230,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/09/20/ByhfY7RIZi/ByhfY7RIZi_0_133_1280_721_0_large.jpg",
-      "readTime": 6,
+      "readTime": 8,
       "author": "שירה קדרי-עובדיה"
     },
     {
@@ -2274,8 +2241,30 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/27/rkuBiTZXaJl/rkuBiTZXaJl_0_0_1280_853_0_large.jpg",
-      "readTime": 9,
+      "readTime": 5,
       "author": "דן רבן"
+    },
+    {
+      "title": "האיום החדש של ארדואן, אחרי שיחות ה\"דה-אסקלציה\"",
+      "description": "יומיים אחרי השיחות בין נציגיו לנציגי ישראל, נשיא טורקיה מאשים שזו רוצה \"לפוצץ את המהפכה\" בסוריה ולזרוע בה פילוג - ומאיים: \"מי שרוצה להכאיב לעם הסורי - חייב להתכונן לשלם מחיר\". בצל הלחימה בעזה טען שוב: \"ישראל מדינת טרור. רק הבוקר 10 בני משפחה אחת נהרגו בחאן יו…",
+      "url": "https://www.ynet.co.il/news/article/skvzvsurkx",
+      "publishedAt": "2025-04-11T15:32:46Z",
+      "source": "Ynet",
+      "category": "ביטחון",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/11/17/SkxDrEHNp/SkxDrEHNp_0_64_3000_1689_0_large.jpg",
+      "readTime": 4,
+      "author": "ליאור בן ארי"
+    },
+    {
+      "title": "ידונו בשינויי אקלים וסיכול טרור: משלחות ערביות מגיעות לפורום דיפלומטי בטורקיה",
+      "description": "\"הפורום הדיפלומטי של אנטליה\", שאליו מגיעים נציגים ממדינות ערביות כמו קטאר ומצרים, מתכנס בטורקיה. בפורום ידונו המשתתפים בנושאים כמו סיוע הומניטרי, סיכול טרור ושינויי אקלים. העיתון הסעודי \"א-שרק אל-אווסט\", היוצא לאור בלונדון, דיווח כי נשיא טורקיה רג'פ טאיפ ארדו…",
+      "url": "https://www.ynet.co.il/news/article/sj11aug8r1g",
+      "publishedAt": "2025-04-11T04:20:54Z",
+      "source": "Ynet",
+      "category": "ביטחון",
+      "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
+      "readTime": 4,
+      "author": "ליאור בן ארי"
     },
     {
       "title": "אישום: 6 ערבים ישראלים העבירו כספים מטורקיה לארגוני הטרור ביו\"ש",
@@ -2285,7 +2274,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 3,
+      "readTime": 9,
       "author": "מאיר תורג'מן, רועי רובינשטיין"
     },
     {
@@ -2296,7 +2285,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/05/B1Vu9JkAJg/B1Vu9JkAJg_503_165_568_320_0_large.jpg",
-      "readTime": 7,
+      "readTime": 6,
       "author": "ynet"
     },
     {
@@ -2307,7 +2296,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/13/SkJVWqiYkx/SkJVWqiYkx_0_0_992_559_0_large.jpg",
-      "readTime": 9,
+      "readTime": 3,
       "author": "זאב אברהמי, ברלין"
     },
     {
@@ -2318,7 +2307,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2015/07/30/6202380/6202380_0_29_1000_563_0_large.jpg",
-      "readTime": 10,
+      "readTime": 7,
       "author": "ישראל מושקוביץ"
     },
     {
@@ -2329,7 +2318,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/07/HJGR9WQ11Ryx/HJGR9WQ11Ryx_0_0_3000_1689_0_large.jpg",
-      "readTime": 8,
+      "readTime": 4,
       "author": "יובל קרני"
     },
     {
@@ -2340,7 +2329,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/31/HyCbvkda1e/HyCbvkda1e_0_0_850_479_0_large.jpg",
-      "readTime": 3,
+      "readTime": 8,
       "author": "ירון פרידמן"
     },
     {
@@ -2351,7 +2340,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/06/H190yzxCke/H190yzxCke_3_60_1277_719_0_large.jpg",
-      "readTime": 8,
+      "readTime": 6,
       "author": "אלישע בן קימון"
     },
     {
@@ -2362,7 +2351,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/13/rJdfxDx3yl/rJdfxDx3yl_0_0_850_479_0_large.jpg",
-      "readTime": 5,
+      "readTime": 6,
       "author": "אלישע בן קימון, איתמר אייכנר"
     },
     {
@@ -2373,7 +2362,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2017/10/30/8119095/8119095_0_27_1300_732_0_large.jpg",
-      "readTime": 6,
+      "readTime": 9,
       "author": "איתמר אייכנר"
     },
     {
@@ -2417,7 +2406,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/03/rk1GmCi61x/rk1GmCi61x_0_0_850_479_0_large.jpg",
-      "readTime": 3,
+      "readTime": 6,
       "author": "ynet"
     },
     {
@@ -2428,7 +2417,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/19/HyQLd6vuhkx/HyQLd6vuhkx_580_1034_1318_742_0_large.jpg",
-      "readTime": 8,
+      "readTime": 5,
       "author": "סיון חילאי, שילֹה פריד"
     },
     {
@@ -2439,7 +2428,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/rkxFm00h56ke/rkxFm00h56ke_0_92_2560_1442_0_large.jpg",
-      "readTime": 6,
+      "readTime": 8,
       "author": "אלישע בן קימון, יואב זיתון"
     },
     {
@@ -2450,7 +2439,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/SJWX4CFayx/SJWX4CFayx_0_20_800_451_0_large.jpg",
-      "readTime": 5,
+      "readTime": 7,
       "author": "ynet"
     },
     {
@@ -2461,7 +2450,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 9,
+      "readTime": 8,
       "author": "דניאל אדלסון, ניו יורק"
     },
     {
@@ -2472,30 +2461,52 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/20/rySnxg53kg/rySnxg53kg_0_0_850_479_0_large.jpg",
-      "readTime": 3,
+      "readTime": 5,
       "author": "ynet והסוכנויות"
     },
     {
-      "title": "צה\"ל: תצפיתניות סיכלו ניסיון הברחת אמל\"ח, 20 מבוקשים נעצרו ביו\"ש",
-      "description": "במהלך הלילה, כוחות צה\"ל, משטרה ושב\"כ פעלו ביהודה ושומרון לסיכול טרור. הכוחות עצרו 20 מבוקשים, תחקרו חשודים והחרימו אמצעי לחימה. כך מסר דובר צה\"ל, שהוסיף כי במהלך סוף השבוע, כוחות שפעלו באזור טול כרם איתרו במהלך סריקות נשק מסוג קרלו ואקדח. בנוסף, אמש תצפיתניות…",
-      "url": "https://www.ynet.co.il/news/article/ry10svpn1x",
-      "publishedAt": "2025-03-23T11:13:12Z",
+      "title": "מפקד חיל האוויר נגד מכתב הטייסים: אין לזה מקום בשעת מלחמה, מי שחתם לא ימשיך בצה\"ל",
+      "description": "מפקד חיל האוויר, אלוף תומר בר, כתב איגרת לאנשי החיל לקראת חג הפסח, ומסר כי \"השבוע ציינו 18 חודשים מאז יצאנו, בעל כורחנו, למלחמת 'חרבות ברזל'. זוהי מלחמה מוצדקת, ארוכה, מורכבת ותובענית\". לדבריו, \"בימים האחרונים נחשפנו לפרסום של מנשר הקורא להפסקת הלחימה ויוצא ב…",
+      "url": "https://www.ynet.co.il/news/article/s1enrklaje",
+      "publishedAt": "2025-04-11T12:09:30Z",
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 10,
-      "author": "אלישע בן קימון"
+      "readTime": 6,
+      "author": "יואב זיתון"
     },
     {
-      "title": "חיל האוויר תוקף באופן נרחב ברצועת עזה: \"חמאס סירב פעם אחר פעם לשחרור חטופים\"",
-      "description": "הפסקת האש קרסה: צה\"ל פתח במתקפה הנרחבת ביותר נגד יעדי טרור ברצועה מאז החלה עסקת החטופים - בהנחיית הדרג המדיני. לשכת רה\"מ: \"התקיפות - במטרה להשיג את יעדי המלחמה, בהם שחרור חטופינו. מכאן ואילך נפעל בעוצמה צבאית הולכת וגוברת\"",
-      "url": "https://www.ynet.co.il/news/article/ryumt4i3jl",
-      "publishedAt": "2025-03-18T00:25:36Z",
+      "title": "מפקד חיל האוויר נגד מכתב הטייסים: אין להם מקום בשעת מלחמה",
+      "description": "בתגובה למכתב הטייסים, שקראו לשחרר את החטופים ולסיים את המלחמה, אמר מפקד חיל האוויר כי משרתי המילואים שחתומים על המכתב אינם יכולים להמשיך לשרת: \"זה תהליך כואב אבל הכרחי, ננצח רק אם נישאר מאוחדים\". היום פרסמו בוגרי 8200 מכתב תמיכה בטייסים, נתניהו תקף: \"קומץ פנס…",
+      "url": "https://www.ynet.co.il/news/article/hkri4yickg",
+      "publishedAt": "2025-04-11T12:09:01Z",
       "source": "Ynet",
       "category": "ביטחון",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/11/22/HkmELVisVa/HkmELVisVa_0_995_2198_1238_0_large.jpg",
-      "readTime": 4,
-      "author": "יואב זיתון, איתמר אייכנר"
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/27/r1LWyfAq1e/r1LWyfAq1e_0_0_850_479_0_large.jpg",
+      "readTime": 3,
+      "author": "יואב זיתון"
+    },
+    {
+      "title": "המסר החד לחמינאי, בדיון החשאי באיראן: תסכים לשיחות עם ארה\"ב - או שהמשטר בסכנה",
+      "description": "זה היה דיון סגור וחשאי. איראן שקלה תגובה למכתב של נשיא ארצות הברית דונלד טראמפ, ולכן נשיא איראן מסעוד פזשכיאן כינס בחודש שעבר את ראשי מערכת המשפט והפרלמנט במדינה, וקיים דיון שבו השתתף גם המנהיג העליון עלי חמינאי. כך אמרו שני גורמים איראניים בכירים ל\"ניו יורק …",
+      "url": "https://www.ynet.co.il/news/article/rj00hjfi0je",
+      "publishedAt": "2025-04-11T11:47:21Z",
+      "source": "Ynet",
+      "category": "ביטחון",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/10/Bkba8srR1g/Bkba8srR1g_0_0_850_479_0_large.jpg",
+      "readTime": 10,
+      "author": "ynet"
+    },
+    {
+      "title": "הצפייה עשויה להיות קשה לצופים ישראלים - אבל מי שייתן צ'אנס ל\"יחידת העילית\" ירוויח",
+      "description": "סרטו החדש של אלכס גרלנד עוקב אחר חיילים אמריקאים הלוחמים בעיראק - ועושה זאת ללא אמירה פוליטית או דיון מוסרי על מלחמה. במקום, הוא מציע מבט כל כך ריאליסטי, עד שהוא מרגיש כמעט כמו סרט תיעודי - על חוויית הלחימה. ייתכן שהדמיון למציאות ולמלחמה בעזה ירתיע את הקהל בא…",
+      "url": "https://www.ynet.co.il/entertainment/article/syy9uuhrjg",
+      "publishedAt": "2025-04-11T05:00:00Z",
+      "source": "Ynet",
+      "category": "ביטחון",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/10/SkGtUyDBCJe/SkGtUyDBCJe_0_79_2358_1327_0_large.jpg",
+      "readTime": 8,
+      "author": "ארז דבורה"
     },
     {
       "title": "השיחות עם איראן יכולות למנוע מלחמה או להוביל לאחת גדולה / נדב איל",
@@ -2505,7 +2516,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/08/HJxdJJm0kl/HJxdJJm0kl_0_56_1181_665_0_large.jpg",
-      "readTime": 4,
+      "readTime": 10,
       "author": "נדב איל"
     },
     {
@@ -2516,7 +2527,7 @@
       "source": "Icar.co.il",
       "category": "ביטחון",
       "imageUrl": "https://www.icar.co.il/_media/articles/8521.jpg",
-      "readTime": 8,
+      "readTime": 5,
       "author": null
     },
     {
@@ -2527,7 +2538,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/08/r1SZmdG0Jx/r1SZmdG0Jx_0_12_1280_721_0_large.jpg",
-      "readTime": 10,
+      "readTime": 3,
       "author": "ynet והסוכנויות"
     },
     {
@@ -2538,7 +2549,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/07/ryyBud11A1l/ryyBud11A1l_0_0_850_479_0_large.jpg",
-      "readTime": 7,
+      "readTime": 6,
       "author": "ליאור אוחנה"
     },
     {
@@ -2549,7 +2560,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/ByWQVmKp1e/ByWQVmKp1e_0_0_3000_1689_0_large.jpg",
-      "readTime": 5,
+      "readTime": 10,
       "author": "ליאור בן ארי"
     },
     {
@@ -2560,7 +2571,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/07/r1XHY11b0Jl/r1XHY11b0Jl_0_191_3000_1688_0_large.jpg",
-      "readTime": 9,
+      "readTime": 7,
       "author": "תמר טרבלסי חדד"
     },
     {
@@ -2571,7 +2582,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/05/SyhsPfy0yx/SyhsPfy0yx_0_0_850_479_0_large.jpg",
-      "readTime": 6,
+      "readTime": 5,
       "author": "ynet"
     },
     {
@@ -2582,7 +2593,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/07/rkxzBWgbRyg/rkxzBWgbRyg_0_0_850_479_0_large.jpg",
-      "readTime": 8,
+      "readTime": 4,
       "author": "רויטרס"
     },
     {
@@ -2593,7 +2604,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/04/r1e9tB86aJl/r1e9tB86aJl_1_167_3000_1689_0_large.jpg",
-      "readTime": 7,
+      "readTime": 4,
       "author": "איתמר אייכנר, בודפשט"
     },
     {
@@ -2604,7 +2615,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/05/Bkgv7eZCTke/Bkgv7eZCTke_0_0_1095_616_0_large.jpg",
-      "readTime": 8,
+      "readTime": 7,
       "author": "ynet"
     },
     {
@@ -2615,7 +2626,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/27/BJ2ru1AzTyg/BJ2ru1AzTyg_1_60_1523_857_0_large.jpg",
-      "readTime": 5,
+      "readTime": 8,
       "author": "אורי חודי"
     },
     {
@@ -2626,7 +2637,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/30/BkbgYmcIpke/BkbgYmcIpke_1_13_906_510_0_large.jpg",
-      "readTime": 7,
+      "readTime": 6,
       "author": "כלכלה"
     },
     {
@@ -2637,7 +2648,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/Hkuq2yipJl/Hkuq2yipJl_0_0_850_479_0_large.jpg",
-      "readTime": 3,
+      "readTime": 6,
       "author": "שילֹה פריד, מורן אזולאי"
     },
     {
@@ -2648,7 +2659,7 @@
       "source": "Icar.co.il",
       "category": "ביטחון",
       "imageUrl": "https://www.icar.co.il/_media/articles/8494.jpg",
-      "readTime": 8,
+      "readTime": 5,
       "author": null
     },
     {
@@ -2659,7 +2670,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/yk14319555/yk14319555_153_163_1475_830_0_large.jpg",
-      "readTime": 4,
+      "readTime": 5,
       "author": "שירה קדרי-עובדיה"
     },
     {
@@ -2670,52 +2681,30 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 10,
+      "readTime": 9,
       "author": "דניאל אדלסון, ניו יורק"
     },
     {
-      "title": "מקצרים דרך לסיפוח: החיבור בין סמוטריץ' לכ\"ץ, והמלחמה נגד הבנייה הפלסטינית",
-      "description": "שר הביטחון והשר במשרד הביטחון הכריזו מלחמה על בנייה פלסטינית לא-חוקית: כמות הפקחים תוכפל ונפתח יחידת אכיפה מיוחדת ליו\"ש. גורם ביטחוני: \"המטרה - 1,000 אירועי אכיפה ב-2025\". שאיפות דומות מעבר לקו הירוק: כך מקצר הקשר בין סמוטריץ' לכ\"ץ את יישום היעד - סיפוח",
-      "url": "https://www.ynet.co.il/news/article/sy6agvft1e",
-      "publishedAt": "2025-04-01T13:51:39Z",
+      "title": "צה\"ל יירט כטב\"ם ששוגר מתימן - ושריפה פרצה בירדן מנפילת רסיסים",
+      "description": "בפעם השלישית תוך שבוע יירט צה\"ל כלי טיס בלתי מאויש ששיגרו החות'ים - לפני שחצה לשטח ישראל. צבא ירדן עדכן כי הכטב\"ם התרסק בשטחם ושריפות פרצו. גורם ביטחוני בירדן, הוסיף: \"צוות מחיל ההנדסה המלכותי בודק את האתר וחוקר את האירוע\"",
+      "url": "https://www.ynet.co.il/news/article/b100g00icye",
+      "publishedAt": "2025-04-11T18:59:29Z",
       "source": "Ynet",
       "category": "ביטחון",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/B1GGe00Faye/B1GGe00Faye_109_36_1075_606_0_large.jpg",
-      "readTime": 8,
-      "author": "אלישע בן קימון"
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/11/BybPMJ1wCyl/BybPMJ1wCyl_0_0_1280_720_0_large.jpg",
+      "readTime": 6,
+      "author": "יואב זיתון, ליאור בן ארי"
     },
     {
-      "title": "שבי חמאס, גרפיטי והיהודי שהורשע כפושע מלחמה נאצי: הסרטים הישראלים בדוקאביב",
-      "description": "מהדורתו ה-27 של פסטיבל הסרטים הבינלאומי לקולנוע דוקומנטרי תכלול 36 סרטי תעודה ישראלים חדשים. כסרט הפתיחה של הפסטיבל נקבע זוכה פרס הסרט התיעודי בפסטיבל ברלין Holding Liat, על אודות ליאת אצילי, שחזרה משבי חמאס, ומאבקה לשיקום יחד עם בני משפחתה",
-      "url": "https://www.ynet.co.il/entertainment/article/bji011fotje",
-      "publishedAt": "2025-04-01T03:00:00Z",
+      "title": "\"זה לא עניין של כסף - זה ליהנות מהחיים עכשיו או לעולם לא\"",
+      "description": "בני ובנות הגיל השלישי בוחרים להעביר את גיל הפרישה ללא התנצלויות וללא חשבון של כמה כסף ישאירו אחריהם בירושה. הם משקיעים בחוויות, בטיולים ובטיפוח עצמי: \"עושים טיול אחרי צבא בחלקים\". רבים יוצאים לקרוזים בשווי עשרות אלפי שקלים, מטיילים בעולם ולא חוסכים על עצמם: \"…",
+      "url": "https://www.ynet.co.il/economy/article/bkmkxcq0jx",
+      "publishedAt": "2025-04-11T04:00:00Z",
       "source": "Ynet",
       "category": "ביטחון",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/Skyd0YuTJg/Skyd0YuTJg_0_0_850_479_0_large.jpg",
-      "readTime": 5,
-      "author": "ynet"
-    },
-    {
-      "title": "מפגינים חסמו כניסה לכנסת: \"ממשלה פושעת שמחרבת כל חלקה טובה\" | ישיר",
-      "description": "קרוב ל-2,000 מוחים סמוך לבית המשפט העליון בירושלים, אחרי שחסמו כניסה למשכן. שקמה ברסלר: \"יועצי נתניהו קיבלו כסף ממדינת אויב בזמן מלחמה, זה מעשה בגידה\". מירב סבירסקי, שאחיה איתי נרצח בשבי: \"59 מופקרים למותם - והממשלה מסרבת לקחת אחריות\"",
-      "url": "https://www.ynet.co.il/news/article/bjrqvsdtke",
-      "publishedAt": "2025-03-31T17:35:52Z",
-      "source": "Ynet",
-      "category": "ביטחון",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/31/ryzgj0druaJx/ryzgj0druaJx_0_122_1280_721_0_large.jpg",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/09/HypjZiQCkg/HypjZiQCkg_119_262_1862_1048_0_large.jpg",
       "readTime": 4,
-      "author": "גלעד כהן, לירן תמרי"
-    },
-    {
-      "title": "לוין ביקש לבטל השתתפות שופטת עליון בכנס של פרופ' שמאשים את ישראל בפשעי מלחמה",
-      "description": "שר המשפטים, יריב לוין, פנה למנהל בתי המשפט, השופט צחי עוזיאל, וביקש לבטל את השתתפותה של שופטת בית המשפט העליון רות רונן בערב עיון לכבודו של פרופסור דוד אנוך, מרצה למשפטים ופילוסופיה באוניברסיטה העברית, בטענה כי \"פרופסור אנוך נוהג להאשים באופן שיטתי את מדינת י…",
-      "url": "https://www.ynet.co.il/news/article/sjar7wopjg",
-      "publishedAt": "2025-03-31T12:06:35Z",
-      "source": "Ynet",
-      "category": "ביטחון",
-      "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 10,
-      "author": "טובה צימוקי"
+      "author": "יעל ולצר"
     },
     {
       "title": "שר החוץ הלבנוני: \"עד שלא נגביל את הנשק של חיזבאללה - לא נקבל סיוע בינלאומי\"",
@@ -2725,7 +2714,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/23/SkSYTuAISJg/SkSYTuAISJg_0_29_3000_1689_0_large.jpg",
-      "readTime": 8,
+      "readTime": 9,
       "author": "ליאור בן ארי"
     },
     {
@@ -2736,7 +2725,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/10/28/By6qXd5zT/By6qXd5zT_0_222_3000_1688_0_large.jpg",
-      "readTime": 7,
+      "readTime": 9,
       "author": "ynet"
     },
     {
@@ -2747,7 +2736,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/26/rkCbN0ZT1x/rkCbN0ZT1x_0_0_940_529_0_large.jpg",
-      "readTime": 4,
+      "readTime": 7,
       "author": "ליאור בן ארי"
     },
     {
@@ -2758,7 +2747,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/05/28/SkQxzV7NC/SkQxzV7NC_572_4_782_440_0_large.jpg",
-      "readTime": 5,
+      "readTime": 8,
       "author": "רן בוקר"
     },
     {
@@ -2769,7 +2758,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/22/HkCcadHBkx/HkCcadHBkx_1_101_3000_1689_0_large.jpg",
-      "readTime": 3,
+      "readTime": 7,
       "author": "ynet"
     },
     {
@@ -2780,7 +2769,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/02/SyemOPyja1l/SyemOPyja1l_0_133_1280_721_0_large.jpg",
-      "readTime": 8,
+      "readTime": 3,
       "author": "כתבי ynet"
     },
     {
@@ -2791,7 +2780,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/05/06/ry113GJ6LfA/ry113GJ6LfA_1_90_1513_852_0_large.jpg",
-      "readTime": 6,
+      "readTime": 9,
       "author": "רוני גרין שאולוב, ליאור בן ארי"
     },
     {
@@ -2802,7 +2791,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/SktHU5Fpkg/SktHU5Fpkg_0_0_850_479_0_large.jpg",
-      "readTime": 8,
+      "readTime": 4,
       "author": "עינב שיף"
     },
     {
@@ -2813,7 +2802,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/B1RLcHFTye/B1RLcHFTye_0_0_850_479_0_large.jpg",
-      "readTime": 6,
+      "readTime": 4,
       "author": "סוכנויות הידיעות"
     },
     {
@@ -2824,7 +2813,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/27/B1uwzl7TJe/B1uwzl7TJe_562_99_657_370_0_large.jpg",
-      "readTime": 9,
+      "readTime": 3,
       "author": "ynet"
     },
     {
@@ -2835,7 +2824,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/29/B1WRXJzSaJl/B1WRXJzSaJl_0_372_720_405_0_large.jpg",
-      "readTime": 4,
+      "readTime": 6,
       "author": "עינב חלבי"
     },
     {
@@ -2846,7 +2835,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/04/SyAavZlKkx/SyAavZlKkx_319_51_2219_1250_0_large.jpg",
-      "readTime": 5,
+      "readTime": 7,
       "author": "דניאל אדלסון, ניו יורק"
     },
     {
@@ -2857,7 +2846,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/26/S1BXOObpJg/S1BXOObpJg_0_0_850_479_0_large.jpg",
-      "readTime": 6,
+      "readTime": 8,
       "author": "ynet"
     },
     {
@@ -2868,7 +2857,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/24/SJ2n85R3yg/SJ2n85R3yg_647_61_634_357_0_large.jpg",
-      "readTime": 9,
+      "readTime": 7,
       "author": "ליאור בן ארי"
     },
     {
@@ -2879,7 +2868,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/25/S111eZPd8A/S111eZPd8A_0_172_811_457_0_large.jpg",
-      "readTime": 5,
+      "readTime": 8,
       "author": "יאיר קראוס"
     },
     {
@@ -2890,7 +2879,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/21/SJZg4Isc21e/SJZg4Isc21e_0_0_3000_1688_0_large.jpg",
-      "readTime": 6,
+      "readTime": 9,
       "author": "ליאור בן ארי"
     },
     {
@@ -2901,7 +2890,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/17/SJgkMdAHh1g/SJgkMdAHh1g_0_442_1516_854_0_large.jpg",
-      "readTime": 4,
+      "readTime": 3,
       "author": "רתם איזק"
     },
     {
@@ -2912,30 +2901,8 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/14/ryH8LSW21l/ryH8LSW21l_0_155_3000_1689_0_large.jpg",
-      "readTime": 3,
+      "readTime": 5,
       "author": "ynet והסוכנויות"
-    },
-    {
-      "title": "\"כנופיות שודדות וחוטפות\". למה סוריה ולבנון תקפו זו את זו?",
-      "description": "לא רגוע בגבול, והפעם לישראל אין קשר: בתקופת אסד חגגו ההברחות לחיזבאללה, אבל המשטר החדש של אל-ג'ולאני פתח במבצע נגדן - והמתיחות בגבול עם לבנון הסלימה השבוע לעימות חריג שכלל חילופי אש. דמשק וביירות הודיעו על הפסקת אש, אבל העימותים נמשכים: \"35 אלף נעקרו לתוך לבנ…",
-      "url": "https://www.ynet.co.il/news/article/rkqfhmon1x",
-      "publishedAt": "2025-03-19T12:03:03Z",
-      "source": "Ynet",
-      "category": "ביטחון",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/19/BkJ7yE00n1l/BkJ7yE00n1l_1_44_1000_563_0_large.jpg",
-      "readTime": 4,
-      "author": "ליאור בן ארי"
-    },
-    {
-      "title": "\"כתב האישום\" שהוביל לפיטורים: המכתב הנפיץ ששיגר ראש השב\"כ לנתניהו",
-      "description": "רונן בר שלח לאחרונה לרה\"מ מסמך יוצא דופן, בו פירט בין היתר את מחדלי הדרג המדיני שאפשרו את טבח 7/10. במערכת הפוליטית משוכנעים שהמכתב, שמתריע גם על בניית צבא חמאס \"במימון מדינתי\" של קטאר, גרם להחלטת נתניהו לפטרו. היועמ\"שית קיבלה גם היא את המכתב, ובודקת את הקשר …",
-      "url": "https://www.ynet.co.il/news/article/yokra14300447",
-      "publishedAt": "2025-03-18T03:20:30Z",
-      "source": "Ynet",
-      "category": "ביטחון",
-      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/17/r1PJgMU3kl/r1PJgMU3kl_0_0_850_479_0_large.jpg",
-      "readTime": 8,
-      "author": "נדב איל"
     },
     {
       "title": "עונש קל לקצין משטרה שהטריד את פקודותיו: \"החיים שלי הפכו לסיוט\"",
@@ -2945,7 +2912,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/12/03/rket8K2X1e/rket8K2X1e_0_51_1280_720_0_large.jpg",
-      "readTime": 3,
+      "readTime": 6,
       "author": "לירן תמרי"
     },
     {
@@ -2956,7 +2923,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/01/16/BJQmMwLPkl/BJQmMwLPkl_0_149_3000_1689_0_large.jpg",
-      "readTime": 5,
+      "readTime": 7,
       "author": "יואב זיתון"
     },
     {
@@ -2967,7 +2934,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/29/B1WRXJzSaJl/B1WRXJzSaJl_0_372_720_405_0_large.jpg",
-      "readTime": 6,
+      "readTime": 7,
       "author": "עינב חלבי"
     },
     {
@@ -2978,7 +2945,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/27/ByBIY002zpkl/ByBIY002zpkl_0_0_1280_720_0_large.jpg",
-      "readTime": 7,
+      "readTime": 10,
       "author": "נינה פוקס"
     },
     {
@@ -2989,7 +2956,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/27/r1a40kQ6Je/r1a40kQ6Je_0_0_1280_720_0_large.jpg",
-      "readTime": 10,
+      "readTime": 7,
       "author": "לירן תמרי"
     },
     {
@@ -3000,7 +2967,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 7,
+      "readTime": 4,
       "author": "אלישע בן קימון"
     },
     {
@@ -3011,7 +2978,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/20/S1b1IPhFnJg/S1b1IPhFnJg_0_259_720_406_0_large.jpg",
-      "readTime": 3,
+      "readTime": 9,
       "author": "שילֹה פריד"
     },
     {
@@ -3022,7 +2989,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/17/SkJP1NH2kg/SkJP1NH2kg_1_286_900_507_0_large.jpg",
-      "readTime": 3,
+      "readTime": 4,
       "author": "חסן שעלאן"
     },
     {
@@ -3033,7 +3000,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/09/Bk0zaa7AJe/Bk0zaa7AJe_0_0_850_479_0_large.jpg",
-      "readTime": 5,
+      "readTime": 3,
       "author": "אלישע בן קימון"
     },
     {
@@ -3044,7 +3011,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/02/22/H1ECy6Enp/H1ECy6Enp_0_0_850_479_0_large.jpg",
-      "readTime": 9,
+      "readTime": 5,
       "author": "רועי רובינשטיין"
     },
     {
@@ -3055,7 +3022,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2023/10/30/rJtrVlTz6/rJtrVlTz6_0_196_1280_721_0_large.jpg",
-      "readTime": 3,
+      "readTime": 6,
       "author": "עידן בלומהוף"
     },
     {
@@ -3066,7 +3033,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/04/rkx7pSA36Je/rkx7pSA36Je_0_0_3000_2000_0_large.jpg",
-      "readTime": 3,
+      "readTime": 8,
       "author": "ליאור בן ארי"
     },
     {
@@ -3077,7 +3044,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2022/10/03/S1178x00fs/S1178x00fs_150_120_804_453_0_large.jpg",
-      "readTime": 4,
+      "readTime": 10,
       "author": "רוני גרין שאולוב"
     },
     {
@@ -3088,7 +3055,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/rk11HfMQtT1l/rk11HfMQtT1l_0_250_3000_1689_0_large.jpg",
-      "readTime": 6,
+      "readTime": 5,
       "author": "אבי יששכרוף"
     },
     {
@@ -3099,7 +3066,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/SJiK14FT1x/SJiK14FT1x_0_494_803_452_0_large.jpg",
-      "readTime": 6,
+      "readTime": 9,
       "author": "ליאור בן ארי, יואב זיתון, איתמר אייכנר"
     },
     {
@@ -3110,7 +3077,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/04/01/SJiSAh006yl/SJiSAh006yl_0_0_1280_720_0_large.jpg",
-      "readTime": 5,
+      "readTime": 7,
       "author": "ליאור בן ארי"
     },
     {
@@ -3121,7 +3088,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2017/05/11/7773193/7773193_0_0_640_360_0_large.jpg",
-      "readTime": 4,
+      "readTime": 8,
       "author": "רענן בן צור"
     },
     {
@@ -3132,7 +3099,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/02/21/SJVfaKnSqkg/SJVfaKnSqkg_0_27_1280_720_0_large.jpg",
-      "readTime": 10,
+      "readTime": 7,
       "author": "לירן תמרי, אלישע בן קימון"
     },
     {
@@ -3154,7 +3121,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/20/HJbw7yOFn1e/HJbw7yOFn1e_0_7_505_284_0_large.jpg",
-      "readTime": 7,
+      "readTime": 9,
       "author": "יואב זיתון, ישראל מושקוביץ"
     },
     {
@@ -3165,7 +3132,7 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2024/06/05/ByMoo8ZCE0/ByMoo8ZCE0_0_0_3000_1688_0_large.jpg",
-      "readTime": 5,
+      "readTime": 3,
       "author": "יואב זיתון, איתן גליקמן"
     },
     {
@@ -3176,9 +3143,9 @@
       "source": "Ynet",
       "category": "ביטחון",
       "imageUrl": "https://www.ynet.co.il/images/big_defual_image_1024_new.png",
-      "readTime": 4,
+      "readTime": 6,
       "author": "יואב זיתון, איתן גליקמן"
     }
   ],
-  "timestamp": "2025-04-12T01:15:09.165675"
+  "timestamp": "2025-04-13T02:44:29.502732"
 }
